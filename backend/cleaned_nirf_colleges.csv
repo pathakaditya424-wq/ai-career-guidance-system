@@ -1,0 +1,472 @@
+college_name,city,state,nirf_rank,nirf_score,field,domain
+Indian Institute of Technology Madras,Chennai,Tamil Nadu,1,89.46,Engineering,"Technology/IT,Engineering"
+Indian Agricultural Research Institute,New Delhi,Delhi,1,87.98,Agriculture and Allied Sectors,Agriculture
+Jamia Hamdard,New Delhi,Delhi,1,84.01,Pharmacy,Healthcare
+All India Institute of Medical Sciences Delhi,New Delhi,Delhi,1,94.46,Medical,Healthcare
+Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,1,83.32,Management,Business/Finance
+National Law School of India University,Bengaluru,Karnataka,1,83.83,Law,Law
+Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,1,84.92,Architecture and Planning,"Creative/Design,Engineering"
+National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,2,80.29,Pharmacy,Healthcare
+Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,2,80.83,Medical,Healthcare
+Indian Institute of Management Bangalore,Bengaluru,Karnataka,2,81.16,Management,Business/Finance
+ICAR - National Dairy Research Institute,Karnal,Haryana,2,71.18,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology Delhi,New Delhi,Delhi,2,86.66,Engineering,"Technology/IT,Engineering"
+National Law University,New Delhi,Delhi,2,77.48,Law,Law
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,2,80.71,Architecture and Planning,"Creative/Design,Engineering"
+Christian Medical College,Vellore,Tamil Nadu,3,75.11,Medical,Healthcare
+"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,3,78.95,Pharmacy,Healthcare
+Indian Institute of Technology Bombay,Mumbai,Maharashtra,3,83.09,Engineering,"Technology/IT,Engineering"
+Punjab Agricultural University,Ludhiana,Punjab,3,69.63,Agriculture and Allied Sectors,Agriculture
+National Institute of Technology Calicut,Kozhikode,Kerala,3,79.51,Architecture and Planning,"Creative/Design,Engineering"
+Nalsar University of Law,Hyderabad,Telangana,3,77.05,Law,Law
+Indian Institute of Management Kozhikode,Kozhikode,Kerala,3,77.9,Management,Business/Finance
+"National Institute of Mental Health and Neuro Sciences, Bangalore",Bengaluru,Karnataka,4,71.92,Medical,Healthcare
+JSS College of Pharmacy,Ooty,Tamil Nadu,4,77.13,Pharmacy,Healthcare
+Banaras Hindu University,Varanasi,Uttar Pradesh,4,68.32,Agriculture and Allied Sectors,Agriculture
+The West Bengal National University of Juridical Sciences,Kolkata,West Bengal,4,76.39,Law,Law
+"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,4,69.71,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Technology Delhi,New Delhi,Delhi,4,76.25,Management,Business/Finance
+Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,4,82.79,Engineering,"Technology/IT,Engineering"
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,5,76.88,Engineering,"Technology/IT,Engineering"
+Indian Institute of Management Calcutta,Kolkata,West Bengal,5,75.07,Management,Business/Finance
+Jawaharlal Institute of Post Graduate Medical Education and Research,Puducherry,Pondicherry,5,70.74,Medical,Healthcare
+Institute of Chemical Technology,Mumbai,Maharashtra,5,74.69,Pharmacy,Healthcare
+"Indian Veterinary Research Institute, Izatnagar",Bareilly,Uttar Pradesh,5,67.76,Agriculture and Allied Sectors,Agriculture
+Symbiosis Law School,Pune,Maharashtra,5,74.62,Law,Law
+School of Planning and Architecture New Delhi,New Delhi,Delhi,5,69.0,Architecture and Planning,"Creative/Design,Engineering"
+Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,6,70.07,Medical,Healthcare
+Jamia Millia Islamia,New Delhi,Delhi,6,73.12,Law,Law
+Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,6,67.23,Architecture and Planning,"Creative/Design,Engineering"
+Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,6,64.92,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,6,76.0,Engineering,"Technology/IT,Engineering"
+JSS College of Pharmacy,Mysore,Karnataka,6,72.89,Pharmacy,Healthcare
+Indian Institute of Management Mumbai,Mumbai,Maharashtra,6,74.73,Management,Business/Finance
+Jamia Millia Islamia,New Delhi,Delhi,7,66.21,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,7,71.47,Law,Law
+Banaras Hindu University,Varanasi,Uttar Pradesh,7,69.54,Medical,Healthcare
+Panjab University,Chandigarh,Chandigarh,7,72.76,Pharmacy,Healthcare
+Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,7,63.75,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology Guwahati,Guwahati,Assam,7,71.86,Engineering,"Technology/IT,Engineering"
+Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,7,74.43,Management,Business/Finance
+Gujarat National Law University,Gandhinagar,Gujarat,8,69.56,Law,Law
+"Manipal College of Pharmaceutical Sciences, Manipal",Udupi,Karnataka,8,72.27,Pharmacy,Healthcare
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,8,68.81,Medical,Healthcare
+Indian Institute of Technology Hyderabad,Hyderabad,Telangana,8,71.55,Engineering,"Technology/IT,Engineering"
+G.B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,8,61.77,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Management Indore,Indore,Madhya Pradesh,8,73.53,Management,Business/Finance
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,8,65.08,Architecture and Planning,"Creative/Design,Engineering"
+National Institute of Pharmaceutical Education and Research Mohali,Mohali,Punjab,9,70.86,Pharmacy,Healthcare
+XLRI - Xavier School of Management,Jamshedpur,Jharkhand,9,68.13,Management,Business/Finance
+"Central Institute of Fisheries Education, Fishries University",Mumbai,Maharashtra,9,61.37,Agriculture and Allied Sectors,Agriculture
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,9,65.4,Law,Law
+National Institute of Technology Rourkela,Rourkela,Odisha,9,64.88,Architecture and Planning,"Creative/Design,Engineering"
+"Kasturba Medical College, Manipal",Manipal,Karnataka,9,67.42,Medical,Healthcare
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,9,66.88,Engineering,"Technology/IT,Engineering"
+Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,10,66.69,Engineering,"Technology/IT,Engineering"
+Visvesvaraya National Institute of Technology Nagpur,Nagpur,Maharashtra,10,63.05,Architecture and Planning,"Creative/Design,Engineering"
+Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,10,64.96,Law,Law
+"Madras Medical College and Government General Hospital, Chennai",Chennai,Tamil Nadu,10,64.12,Medical,Healthcare
+SVKM`s Narsee Monjee Institute of Management Studies ,Mumbai,Maharashtra,10,69.94,Pharmacy,Healthcare
+Indian Institute of Technology Bombay,Mumbai,Maharashtra,10,67.16,Management,Business/Finance
+Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,Srinagar,Jammu and Kashmir,10,61.04,Agriculture and Allied Sectors,Agriculture
+University of Agricultural Sciences,Bengaluru,Karnataka,11,59.13,Agriculture and Allied Sectors,Agriculture
+Management Development Institute,Gurugram,Haryana,11,66.85,Management,Business/Finance
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,11,68.9,Pharmacy,Healthcare
+Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,11,64.1,Medical,Healthcare
+Vellore Institute of Technology,Vellore,Tamil Nadu,11,66.22,Engineering,"Technology/IT,Engineering"
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,11,61.83,Architecture and Planning,"Creative/Design,Engineering"
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,11,63.6,Law,Law
+Indian Institute of Management Rohtak,Rohtak,Haryana,12,66.49,Management,Business/Finance
+School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,12,61.75,Architecture and Planning,"Creative/Design,Engineering"
+"National Institute of Food Technology, Entrepreneurship and Management",Thanjavur,Tamil Nadu,12,56.8,Agriculture and Allied Sectors,Agriculture
+Aligarh Muslim University,Aligarh,Uttar Pradesh,12,63.54,Law,Law
+Jadavpur University,Kolkata,West Bengal,12,65.62,Engineering,"Technology/IT,Engineering"
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,12,63.72,Medical,Healthcare
+National Institute of Pharmaceutical Education and Research Guwahati,Guwahati,Assam,12,68.82,Pharmacy,Healthcare
+Bidhan Chandra Krishi Vishwavidyalaya,Nadia,West Bengal,13,56.67,Agriculture and Allied Sectors,Agriculture
+"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",Thiruvananthapuram,Kerala,13,63.68,Medical,Healthcare
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,13,68.07,Pharmacy,Healthcare
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,13,65.41,Engineering,"Technology/IT,Engineering"
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,13,61.58,Law,Law
+Chandigarh University,Mohali,Punjab,13,61.47,Architecture and Planning,"Creative/Design,Engineering"
+Symbiosis Institute of Business Management,Pune,Maharashtra,13,65.13,Management,Business/Finance
+All India Institute of Medical Sciences Rishikesh,Rishikesh,Uttarakhand,14,63.16,Medical,Healthcare
+Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,14,60.65,Law,Law
+National Institute of Pharmaceutical Education and Research Raebareli,Lucknow,Uttar Pradesh,14,65.53,Pharmacy,Healthcare
+Indian Institute of Management Raipur,Raipur,Chhattisgarh,14,64.4,Management,Business/Finance
+Aligarh Muslim University,Aligarh,Uttar Pradesh,14,61.01,Architecture and Planning,"Creative/Design,Engineering"
+Anna University,Chennai,Tamil Nadu,14,65.34,Engineering,"Technology/IT,Engineering"
+Assam Agricultural University,Jorhat,Assam,14,55.67,Agriculture and Allied Sectors,Agriculture
+Christ University,Bengaluru,Karnataka,15,59.39,Law,Law
+Indian Institute of Foreign Trade,New Delhi,Delhi,15,62.36,Management,Business/Finance
+Odisha University of Agriculture and Technology,Khordha,Odisha,15,55.65,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,15,64.83,Engineering,"Technology/IT,Engineering"
+National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,15,64.89,Pharmacy,Healthcare
+Malaviya National Institute of Technology,Jaipur,Rajasthan,15,60.79,Architecture and Planning,"Creative/Design,Engineering"
+All India Institute of Medical Sciences Bhubaneswar,Khordha,Odisha,15,62.97,Medical,Healthcare
+Kerala Agricultural University,Thrissur,Kerala,16,55.3,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology Indore,Indore,Madhya Pradesh,16,64.72,Engineering,"Technology/IT,Engineering"
+All India Institute of Medical Sciences Jodhpur,Jodhpur,Rajasthan,16,62.57,Medical,Healthcare
+Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,16,64.73,Pharmacy,Healthcare
+Dr. B. R. Ambedkar College of Law,Visakhapatnam,Andhra Pradesh,16,58.75,Law,Law
+Indian Institute of Technology Madras,Chennai,Tamil Nadu,16,61.73,Management,Business/Finance
+Lovely Professional University,Phagwara,Punjab,16,64.73,Pharmacy,Healthcare
+School of Planning and Architecture Vijayawada,Vijayawada,Andhra Pradesh,16,60.4,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Management Ranchi,Ranchi,Jharkhand,17,61.27,Management,Business/Finance
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,17,58.68,Law,Law
+Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,17,60.39,Architecture and Planning,"Creative/Design,Engineering"
+Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,17,62.36,Medical,Healthcare
+"National Institute of Technology Karnataka, Surathkal ",Surathkal,Karnataka,17,64.27,Engineering,"Technology/IT,Engineering"
+Tamil Nadu Veterinary and Animal Sciences University,Chennai,Tamil Nadu,17,55.19,Agriculture and Allied Sectors,Agriculture
+Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,18,61.21,Management,Business/Finance
+Jadavpur University,Kolkata,West Bengal,18,64.14,Pharmacy,Healthcare
+Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,18,63.42,Engineering,"Technology/IT,Engineering"
+Dr. Y.S. Parmar University of Horticulture and Forestry,Solan,Himachal Pradesh,18,54.67,Agriculture and Allied Sectors,Agriculture
+S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,18,62.0,Medical,Healthcare
+"College of Engineering, Trivandrum",Thiruvananthapuram,Kerala,18,58.4,Architecture and Planning,"Creative/Design,Engineering"
+Alliance University,Bengaluru,Karnataka,18,56.72,Law,Law
+King George`s Medical University,Lucknow,Uttar Pradesh,19,61.95,Medical,Healthcare
+Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Kangra,Himachal Pradesh,19,54.55,Agriculture and Allied Sectors,Agriculture
+National Institute of Technology Rourkela,Rourkela,Odisha,19,63.38,Engineering,"Technology/IT,Engineering"
+Chitkara University,Rajpura,Punjab,19,64.05,Pharmacy,Healthcare
+Nirma University,Ahmedabad,Gujarat,19,57.69,Architecture and Planning,"Creative/Design,Engineering"
+Lovely Professional University,Phagwara,Punjab,19,56.71,Law,Law
+Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,19,61.03,Management,Business/Finance
+S. P. Jain Institute of Management and Research,Mumbai,Maharashtra,20,60.97,Management,Business/Finance
+Dr. Ram Manohar Lohiya National Law University,Lucknow,Uttar Pradesh,20,55.92,Law,Law
+Birla Institute of Technology,Ranchi,Jharkhand,20,57.21,Architecture and Planning,"Creative/Design,Engineering"
+"Birla Institute of Technology and Science, Pilani",Pilani,Rajasthan,20,63.04,Engineering,"Technology/IT,Engineering"
+Chandigarh University,Mohali,Punjab,20,64.01,Pharmacy,Healthcare
+Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,20,61.62,Medical,Healthcare
+Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu,Jammu and Kashmir,20,53.91,Agriculture and Allied Sectors,Agriculture
+M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,21,57.01,Architecture and Planning,"Creative/Design,Engineering"
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,21,61.28,Medical,Healthcare
+Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,21,61.78,Pharmacy,Healthcare
+"National Institute of Food Technology, Enterprenurship and Management",Sonipat,Haryana,21,52.37,Agriculture and Allied Sectors,Agriculture
+National Institute of Technology Warangal,Warangal,Telangana,21,61.72,Engineering,"Technology/IT,Engineering"
+"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,21,55.64,Law,Law
+SVKM`s Narsee Monjee Institute of Management Studies ,Mumbai,Maharashtra,21,60.96,Management,Business/Finance
+Indian Institute of Management Udaipur,Udaipur,Rajasthan,22,60.93,Management,Business/Finance
+Lovely Professional University,Phagwara,Punjab,22,51.01,Agriculture and Allied Sectors,Agriculture
+Amity University,Gautam Budh Nagar,Uttar Pradesh,22,61.07,Pharmacy,Healthcare
+Institute of Post Graduate Medical Education and Research,Kolkata,West Bengal,22,60.47,Medical,Healthcare
+Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,22,56.31,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Technology Ropar,Rupnagar,Punjab,22,61.56,Engineering,"Technology/IT,Engineering"
+National University of Study and Research in Law,Ranchi,Jharkhand,22,55.52,Law,Law
+Central University of Punjab,Bathinda,Punjab,23,60.92,Pharmacy,Healthcare
+Anand Agricultural University,Anand,Gujarat,23,50.69,Agriculture and Allied Sectors,Agriculture
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,23,61.29,Engineering,"Technology/IT,Engineering"
+Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,23,60.14,Medical,Healthcare
+Indian Institute of Management Kashipur,Kashipur,Uttarakhand,23,60.82,Management,Business/Finance
+BMS College of Architecture,Bengaluru,Karnataka,23,56.04,Architecture and Planning,"Creative/Design,Engineering"
+University of Lucknow, Lucknow,Uttar Pradesh,23,55.05,Law,Law
+Indian Institute of Management Shillong,Shillong,Meghalaya,24,60.49,Management,Business/Finance
+Guru Angad Dev Veterinary and Animal Sciences University,Ludhiana,Punjab,24,50.52,Agriculture and Allied Sectors,Agriculture
+The Rajiv Gandhi National University of Law,Patiala,Punjab,24,54.7,Law,Law
+University of Agricultural Sciences,Dharwad,Karnataka,24,50.52,Agriculture and Allied Sectors,Agriculture
+Jamia Millia Islamia,New Delhi,Delhi,24,61.28,Engineering,"Technology/IT,Engineering"
+National Institute of Pharmaceutical Education and Research Kolkata,Kolkata,West Bengal,24,58.76,Pharmacy,Healthcare
+Lovely Professional University,Phagwara,Punjab,24,55.86,Architecture and Planning,"Creative/Design,Engineering"
+Maulana Azad Medical College,Delhi,Delhi,24,59.63,Medical,Healthcare
+National Institute of Technology Calicut,Kozhikode,Kerala,25,61.19,Engineering,"Technology/IT,Engineering"
+I. S. F. College of Pharmacy,Moga,Punjab,25,58.27,Pharmacy,Healthcare
+Jamia Millia Islamia,New Delhi,Delhi,25,60.32,Management,Business/Finance
+Banaras Hindu University,Varanasi,Uttar Pradesh,25,54.54,Law,Law
+Thiagarajar College of Engineering,Madurai,Tamil Nadu,25,54.71,Architecture and Planning,"Creative/Design,Engineering"
+Amity University,North Twenty Four Parganas,West Bengal,25,54.71,Architecture and Planning,"Creative/Design,Engineering"
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,25,59.6,Medical,Healthcare
+All India Institute of Medical Sciences Patna,Patna,Bihar,26,58.24,Medical,Healthcare
+"National Law University, Cuttack",Cuttack,Odisha,26,54.49,Law,Law
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,26,60.97,Engineering,"Technology/IT,Engineering"
+Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,26,58.24,Pharmacy,Healthcare
+Indian Institute of Management Visakhapatnam,Visakhapatnam,Andhra Pradesh,26,59.2,Management,Business/Finance
+Acharya N G Ranga Agricultural University,Guntur,Andhra Pradesh,26,50.24,Agriculture and Allied Sectors,Agriculture
+Annamalai University,Annamalainagar,Tamil Nadu,27,58.19,Pharmacy,Healthcare
+National Institute of Technology Patna,Patna,Bihar,27,54.19,Architecture and Planning,"Creative/Design,Engineering"
+Annamalai University,Annamalainagar,Tamil Nadu,27,49.92,Agriculture and Allied Sectors,Agriculture
+Delhi Technological University,New Delhi,Delhi,27,60.78,Engineering,"Technology/IT,Engineering"
+National Law University and Judicial Academy,Kamrup,Assam,27,53.39,Law,Law
+Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,27,57.67,Management,Business/Finance
+Aligarh Muslim University,Aligarh,Uttar Pradesh,27,58.07,Medical,Healthcare
+"Manipal School of Architecture and Planning, MAHE",Udupi,Karnataka,28,53.21,Architecture and Planning,"Creative/Design,Engineering"
+Banasthali Vidyapith,Banasthali,Rajasthan,28,57.77,Pharmacy,Healthcare
+St. John's Medical College,Bengaluru,Karnataka,28,58.03,Medical,Healthcare
+Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,28,57.4,Management,Business/Finance
+UPES,Dehradun,Uttarakhand,28,52.92,Law,Law
+Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,28,60.61,Engineering,"Technology/IT,Engineering"
+West Bengal University of Animal and Fishery Sciences,Kolkata,West Bengal,28,48.3,Agriculture and Allied Sectors,Agriculture
+Dr Rajendra Prasad Central Agricultural University,Samastipur,Bihar,29,47.94,Agriculture and Allied Sectors,Agriculture
+Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,29,60.35,Engineering,"Technology/IT,Engineering"
+Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,29,57.23,Management,Business/Finance
+"Manipal University, Jaipur",Jaipur,Rajasthan,29,52.23,Law,Law
+Amity University,Gautam Budh Nagar,Uttar Pradesh,29,57.23,Management,Business/Finance
+Central University of Rajasthan,Kishangarh,Rajasthan,29,57.65,Pharmacy,Healthcare
+Lady Hardinge Medical College,New Delhi,Delhi,29,57.8,Medical,Healthcare
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,29,52.73,Architecture and Planning,"Creative/Design,Engineering"
+Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,30,57.07,Pharmacy,Healthcare
+Army Institute of Law,Mohali,Punjab,30,52.11,Law,Law
+"Chandigarh College of Architecture, Sector-12",Chandigarh,Chandigarh,30,52.6,Architecture and Planning,"Creative/Design,Engineering"
+Armed Force Medical College,Pune,Maharashtra,30,57.68,Medical,Healthcare
+Amity University,Gautam Budh Nagar,Uttar Pradesh,30,59.91,Engineering,"Technology/IT,Engineering"
+Kerala University of Fisheries and Ocean Studies,Kochi,Kerala,30,47.84,Agriculture and Allied Sectors,Agriculture
+Central Agricultural University,Imphal West,Manipur,31,47.53,Agriculture and Allied Sectors,Agriculture
+Maharashtra National Law University Mumbai ,Mumbai,Maharashtra,31,51.7,Law,Law
+Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,31,56.98,Pharmacy,Healthcare
+Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,31,52.59,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Management Nagpur,Nagpur,Maharashtra,31,56.94,Management,Business/Finance
+All India Institute of Medical Sciences Bhopal,Bhopal,Madhya Pradesh,31,57.66,Medical,Healthcare
+Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,31,59.86,Engineering,"Technology/IT,Engineering"
+Chanakya National Law University,Patna,Bihar,31,51.7,Law,Law
+Birla Institute of Technology,Ranchi,Jharkhand,32,56.75,Pharmacy,Healthcare
+University College of Medical Sciences,Delhi,Delhi,32,57.65,Medical,Healthcare
+National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,32,52.58,Architecture and Planning,"Creative/Design,Engineering"
+MICA,Ahmedabad,Gujarat,32,56.62,Management,Business/Finance
+Chandigarh University,Mohali,Punjab,32,59.82,Engineering,"Technology/IT,Engineering"
+Tamil Nadu Dr.J.Jayalalithaa Fisheries University,Nagapattinam,Tamil Nadu,32,46.46,Agriculture and Allied Sectors,Agriculture
+Sri Venkateswara Veterinary University,Tirupati,Andhra Pradesh,33,46.41,Agriculture and Allied Sectors,Agriculture
+Aligarh Muslim University,Aligarh,Uttar Pradesh,33,59.16,Engineering,"Technology/IT,Engineering"
+Indian Institute of Management Bodh Gaya,Gaya,Bihar,33,56.27,Management,Business/Finance
+"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,33,51.68,Law,Law
+"Manipal University, Jaipur",Jaipur,Rajasthan,33,51.6,Architecture and Planning,"Creative/Design,Engineering"
+"Kasturba Medical College, Mangalore",Mangaluru,Karnataka,33,57.12,Medical,Healthcare
+National Institute Of Pharmaceutical Education And Research Hajipur,Hajipur,Bihar,33,56.4,Pharmacy,Healthcare
+Great Lakes Institute of Management,Chennai,Tamil Nadu,34,56.15,Management,Business/Finance
+"Maharashtra National Law University, Nagpur",Nagpur ,Maharashtra,34,51.43,Law,Law
+Anna University,Chennai,Tamil Nadu,34,51.16,Architecture and Planning,"Creative/Design,Engineering"
+Indian Institute of Technology Patna,Patna,Bihar,34,58.4,Engineering,"Technology/IT,Engineering"
+Lala lajpat Rai University of Veterinary and Animal Sciences,Hisar,Haryana,34,46.17,Agriculture and Allied Sectors,Agriculture
+Institute of Liver and Biliary Sciences,New Delhi,Delhi,34,56.89,Medical,Healthcare
+"AU College of Pharmaceutical Sciences, Andhra University",Visakhapatnam,Andhra Pradesh,34,56.11,Pharmacy,Healthcare
+Chitkara University,Rajpura,Punjab,35,50.96,Architecture and Planning,"Creative/Design,Engineering"
+Institute of Management Technology,Ghaziabad,Uttar Pradesh,35,56.03,Management,Business/Finance
+Govt. Medical College & Hospital,Chandigarh,Chandigarh,35,56.53,Medical,Healthcare
+Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,35,58.24,Engineering,"Technology/IT,Engineering"
+Navsari Agricultural University,Navsari,Gujarat,35,45.9,Agriculture and Allied Sectors,Agriculture
+"Poona College of Pharmacy, Pune",Pune,Maharashtra,35,55.86,Pharmacy,Healthcare
+Indian Law Institute,New Delhi,Delhi,35,50.25,Law,Law
+Maharishi Markandeshwar (Deemed to be University),Ambala,Haryana,35,56.53,Medical,Healthcare
+Chandigarh University,Mohali,Punjab,36,55.71,Management,Business/Finance
+Bihar Agriculture University,Bhagalpur,Bihar,36,45.69,Agriculture and Allied Sectors,Agriculture
+"ICFAI Foundation for Higher Education, Hyderabad",Hyderabad,Telangana,36,49.87,Law,Law
+Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,36,58.2,Engineering,"Technology/IT,Engineering"
+Dr D Y Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,36,55.24,Pharmacy,Healthcare
+National Institute of Technology Raipur,Raipur,Chhattisgarh,36,50.63,Architecture and Planning,"Creative/Design,Engineering"
+Jamia Hamdard,New Delhi,Delhi,37,55.53,Medical,Healthcare
+Goa Institute of Management,Sanquelim,Goa,37,55.67,Management,Business/Finance
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,37,58.0,Engineering,"Technology/IT,Engineering"
+Professor Jayashankar Telangana State Agricultural University,Hyderabad,Telangana,37,44.73,Agriculture and Allied Sectors,Agriculture
+Nirma University,Ahmedabad,Gujarat,37,55.22,Pharmacy,Healthcare
+Gandhi Institute of Technology and Management ,Visakhapatnam,Andhra Pradesh,37,48.49,Law,Law
+Anant National University,Ahmedabad,Gujarat,37,49.53,Architecture and Planning,"Creative/Design,Engineering"
+All India Institute of Medical Sciences Raipur,Raipur,Chhattisgarh,38,55.27,Medical,Healthcare
+Kalasalingam Academy of Research and Education,Srivilliputhur,Tamil Nadu,38,44.63,Agriculture and Allied Sectors,Agriculture
+Lovely Professional University,Phagwara,Punjab,38,55.49,Management,Business/Finance
+Shanmugha Arts Science Technology and Research Academy,Thanjavur,Tamil Nadu,38,57.97,Engineering,"Technology/IT,Engineering"
+National University of Advanced Legal Studies (NUALS),Kochi,Kerala,38,47.96,Law,Law
+Maharshi Dayanand University,Rohtak,Haryana,38,54.53,Pharmacy,Healthcare
+"BMS School of Architecture, Yelahanka",Bengaluru,Karnataka,38,49.47,Architecture and Planning,"Creative/Design,Engineering"
+Indira Gandhi Krishi Vishwavidyalaya,Raipur,Chhattisgarh,39,44.14,Agriculture and Allied Sectors,Agriculture
+Amity University,North Twenty Four Parganas,West Bengal,39,47.94,Law,Law
+Damodaram Sanjivayya National Law University,Visakhapatnam,Andhra Pradesh,39,47.94,Law,Law
+"ICFAI Foundation for Higher Education, Hyderabad",Hyderabad,Telangana,39,55.31,Management,Business/Finance
+SVKM`s Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,39,54.18,Pharmacy,Healthcare
+"JSS Medical College, Mysore",Mysuru,Karnataka,39,55.0,Medical,Healthcare
+Gandhi Institute of Technology and Management ,Visakhapatnam,Andhra Pradesh,39,48.99,Architecture and Planning,"Creative/Design,Engineering"
+Visvesvaraya National Institute of Technology Nagpur,Nagpur,Maharashtra,39,57.89,Engineering,"Technology/IT,Engineering"
+International Management Institute,New Delhi,Delhi,40,54.89,Management,Business/Finance
+Noida Institute of Engineering and Technology (Pharmacy Institute),Greater Noida,Uttar Pradesh,40,53.55,Pharmacy,Healthcare
+B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,40,47.53,Architecture and Planning,"Creative/Design,Engineering"
+Dayanand Medical College,Ludhiana,Punjab,40,54.48,Medical,Healthcare
+National Institute of Technology Silchar,Silchar,Assam,40,57.6,Engineering,"Technology/IT,Engineering"
+Uttar Banga Krishi Vishwavidyalaya,Cooch Behar,West Bengal,40,44.05,Agriculture and Allied Sectors,Agriculture
+UPES,Dehradun,Uttarakhand,41,54.82,Management,Business/Finance
+PSG Institute of Medical Sciences and Research,Coimbatore,Tamil Nadu,41,53.11,Medical,Healthcare
+N.G.S.M. Institute of Pharmaceutical Sciences,Mangaluru,Karnataka,41,53.35,Pharmacy,Healthcare
+Institute of Chemical Technology,Mumbai,Maharashtra,41,56.93,Engineering,"Technology/IT,Engineering"
+"Government Medical College, Thiruvananthapuram",Thiruvananthapuram,Kerala,42,52.3,Medical,Healthcare
+"Indian Institute of Management Jammu (IIMJ)
+",Jammu,Jammu and Kashmir,42,54.64,Management,Business/Finance
+UPES,Dehradun,Uttarakhand,42,56.65,Engineering,"Technology/IT,Engineering"
+"KLE College of Pharmacy, Belgaum",Belgaum,Karnataka,42,52.66,Pharmacy,Healthcare
+Dibrugarh University,Dibrugarh,Assam,43,52.16,Pharmacy,Healthcare
+Sawai Man Singh Medical College,Jaipur,Rajasthan,43,51.91,Medical,Healthcare
+XIM University,Bhubaneswar,Odisha,43,54.49,Management,Business/Finance
+Malaviya National Institute of Technology,Jaipur,Rajasthan,43,56.35,Engineering,"Technology/IT,Engineering"
+National Institute of Technology Durgapur,Durgapur,West Bengal,44,56.26,Engineering,"Technology/IT,Engineering"
+Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,44,51.93,Pharmacy,Healthcare
+Medical College,Kolkata,West Bengal,44,51.87,Medical,Healthcare
+Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,44,53.26,Management,Business/Finance
+Jaipuria Institute of Management,Noida,Uttar Pradesh,45,53.23,Management,Business/Finance
+Gujarat Cancer and Research Institute,Ahmadabad,Gujarat,45,51.77,Medical,Healthcare
+National Institute of Technology Delhi,Delhi,Delhi,45,55.67,Engineering,"Technology/IT,Engineering"
+Integral University,Lucknow,Uttar Pradesh,45,51.44,Pharmacy,Healthcare
+M. S. Ramaiah Medical College,Bengaluru,Karnataka,46,51.76,Medical,Healthcare
+Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,46,52.78,Management,Business/Finance
+Punjabi University,Patiala,Punjab,46,51.33,Pharmacy,Healthcare
+Sri Sivasubramaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,46,55.01,Engineering,"Technology/IT,Engineering"
+International Institute of Information Technology Hyderabad,Hyderabad,Telangana,47,54.29,Engineering,"Technology/IT,Engineering"
+Parul University,Vadodara,Gujarat,47,51.3,Pharmacy,Healthcare
+Indian Institute of Management Amritsar,Amritsar,Punjab,47,52.57,Management,Business/Finance
+Mahatma Gandhi Medical College and Research Institute,Puducherry,Pondicherry,47,51.02,Medical,Healthcare
+Gandhi Institute of Technology and Management ,Visakhapatnam,Andhra Pradesh,48,51.03,Pharmacy,Healthcare
+Birla Institute of Technology,Ranchi,Jharkhand,48,54.18,Engineering,"Technology/IT,Engineering"
+Osmania Medical College,HYDERABAD ,Telangana,48,50.99,Medical,Healthcare
+Banaras Hindu University,Varanasi,Uttar Pradesh,48,52.26,Management,Business/Finance
+Institute of Rural Management Anand (IRMA),Anand,Gujarat,49,51.54,Management,Business/Finance
+Christian Medical College,Ludhiana,Punjab,49,50.96,Medical,Healthcare
+Suresh Gyan Vihar University,Jaipur,Rajasthan,49,50.81,Pharmacy,Healthcare
+"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,49,54.17,Engineering,"Technology/IT,Engineering"
+Lovely Professional University,Phagwara,Punjab,50,54.16,Engineering,"Technology/IT,Engineering"
+Galgotias University,Gautam Budh Nagar,Uttar Pradesh,50,50.73,Pharmacy,Healthcare
+Pandit Bhagwat Dayal Sharma University of Health Sciences,Rohtak,Haryana,50,50.71,Medical,Healthcare
+Indian Institute of Management Sambalpur,Sambalpur,Odisha,50,51.47,Management,Business/Finance
+National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,51,51.4,Management,Business/Finance
+Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,51,50.22,Pharmacy,Healthcare
+Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,51,53.13,Engineering,"Technology/IT,Engineering"
+L. M. College of Pharmacy,Ahmedabad,Gujarat,52,50.02,Pharmacy,Healthcare
+Graphic Era University,Dehradun,Uttarakhand,52,52.96,Engineering,"Technology/IT,Engineering"
+Great Lakes Institute of Management,Gurgaon,Haryana,52,51.35,Management,Business/Finance
+Fore School of Management,New Delhi,Delhi,53,51.08,Management,Business/Finance
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,53,52.85,Engineering,"Technology/IT,Engineering"
+G. L. A. University,Mathura,Uttar Pradesh,53,49.74,Pharmacy,Healthcare
+Guru Ghasidas Vishwavidyalaya,BILASPUR (Chhattisgarh),Chhattisgarh,54,49.65,Pharmacy,Healthcare
+Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,54,52.54,Engineering,"Technology/IT,Engineering"
+Chitkara University,Rajpura,Punjab,54,51.02,Management,Business/Finance
+Nirma University,Ahmedabad,Gujarat,55,51.01,Management,Business/Finance
+National Institute of Technology Patna,Patna,Bihar,55,52.28,Engineering,"Technology/IT,Engineering"
+Guru Jambheshwar University of Science and Technology,Hisar,Haryana,55,48.98,Pharmacy,Healthcare
+R. C. Patel Institute of Pharmaceutical Education and Research,Shirpur,Maharashtra,56,48.75,Pharmacy,Healthcare
+Manipal Institute of Technology,Manipal,Karnataka,56,52.12,Engineering,"Technology/IT,Engineering"
+"International Management Institute, Kolkata",Kolkata,West Bengal,56,50.97,Management,Business/Finance
+Indian Institute of Management Sirmaur,Sirmaur,Himachal Pradesh,57,50.92,Management,Business/Finance
+Netaji Subhas University of Technology (NSUT),Delhi,Delhi,57,51.52,Engineering,"Technology/IT,Engineering"
+Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College,Bela,Punjab,57,48.51,Pharmacy,Healthcare
+Dr. B R Ambedkar National Institute of Technology Jalandhar,Jalandhar,Punjab,58,51.11,Engineering,"Technology/IT,Engineering"
+PSG College of Pharmacy,Coimbatore,Tamil Nadu,58,48.08,Pharmacy,Healthcare
+"T. A. Pai Management Institute, Manipal",Manipal,Karnataka,58,50.78,Management,Business/Finance
+Graphic Era University,Dehradun,Uttarakhand,59,50.59,Management,Business/Finance
+Sardar Vallabhbhai National Institute of Technology,SURAT,Gujarat,59,51.04,Engineering,"Technology/IT,Engineering"
+Mohan Lal Sukhadia University,Udaipur,Rajasthan,59,47.03,Pharmacy,Healthcare
+Sri Padmavathi Mahila Visvavidyalayam,Tirupati,Andhra Pradesh,60,46.63,Pharmacy,Healthcare
+Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,60,50.65,Engineering,"Technology/IT,Engineering"
+Christ University,Bengaluru,Karnataka,60,50.56,Management,Business/Finance
+Indian Institute of Technology Tirupati,YERPEDU,Andhra Pradesh,61,50.58,Engineering,"Technology/IT,Engineering"
+Smt. Kishoritai Bhoyar College of Pharmacy,Nagpur,Maharashtra,61,46.37,Pharmacy,Healthcare
+"International Management Institute, Bhubaneswar",Bhubaneswar,Odisha,61,50.38,Management,Business/Finance
+Indian Institute of Technology Jammu,Jammu,Jammu and Kashmir,62,50.53,Engineering,"Technology/IT,Engineering"
+"Kumaun University, Nainital",Nainital,Uttarakhand,62,46.34,Pharmacy,Healthcare
+Siksha `O` Anusandhan,Bhubaneswar,Odisha,62,49.69,Management,Business/Finance
+Defence Institute of Advanced Technology,Pune,Maharashtra,63,50.37,Engineering,"Technology/IT,Engineering"
+Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,63,46.1,Pharmacy,Healthcare
+K J Somaiya Institute of Management Studies and Research,Mumbai,Maharashtra,63,49.66,Management,Business/Finance
+Vels Institute of Science Technology and Advanced Studies (VISTAS),Chennai,Tamil Nadu,64,46.0,Pharmacy,Healthcare
+Indian Institute of Technology Palakkad,Palakkad,Kerala,64,50.24,Engineering,"Technology/IT,Engineering"
+"Manipal University, Jaipur",Jaipur,Rajasthan,64,50.24,Engineering,"Technology/IT,Engineering"
+Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,64,49.44,Management,Business/Finance
+Nandha College of Pharmacy,Erode,Tamil Nadu,65,45.5,Pharmacy,Healthcare
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,65,49.4,Management,Business/Finance
+Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,66,50.05,Engineering,"Technology/IT,Engineering"
+Chandigarh College of Pharmacy,Landran,Punjab,66,45.3,Pharmacy,Healthcare
+Loyola Institute of Business Administration,Chennai,Tamil Nadu,66,49.26,Management,Business/Finance
+Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,67,49.24,Management,Business/Finance
+Krishna Vishwa Vidyapeeth,Karad,Maharashtra,67,45.13,Pharmacy,Healthcare
+PSG College of Technology,Coimbatore,Tamil Nadu,67,49.92,Engineering,"Technology/IT,Engineering"
+Malaviya National Institute of Technology,Jaipur,Rajasthan,68,49.14,Management,Business/Finance
+M.S. Ramaiah University of Applied Sciences,Bengaluru,Karnataka,68,45.02,Pharmacy,Healthcare
+National Institute of Technology Meghalaya,Shillong,Meghalaya,68,49.82,Engineering,"Technology/IT,Engineering"
+Visvesvaraya Technological University,Belgaum,Karnataka,69,49.8,Engineering,"Technology/IT,Engineering"
+Sharda University,Greater Noida,Uttar Pradesh,69,44.75,Pharmacy,Healthcare
+Anna University,Chennai,Tamil Nadu,69,48.92,Management,Business/Finance
+Aligarh Muslim University,Aligarh,Uttar Pradesh,70,48.68,Management,Business/Finance
+University of Hyderabad,Hyderabad,Telangana,70,49.3,Engineering,"Technology/IT,Engineering"
+Gujarat Technological University,Ahmedabad,Gujarat,70,44.33,Pharmacy,Healthcare
+National Institute of Technology Raipur,Raipur,Chhattisgarh,71,48.88,Engineering,"Technology/IT,Engineering"
+Anurag University,Hyderabad,Telangana,71,44.22,Pharmacy,Healthcare
+Alliance University,Bengaluru,Karnataka,71,48.38,Management,Business/Finance
+Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,72,43.74,Pharmacy,Healthcare
+"Jaipuria Institute of Management, Lucknow",Lucknow,Uttar Pradesh,72,48.32,Management,Business/Finance
+Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,72,48.86,Engineering,"Technology/IT,Engineering"
+Indian Institute of Technology Bhilai,Raipur,Chhattisgarh,73,48.8,Engineering,"Technology/IT,Engineering"
+"Manipal University, Jaipur",Jaipur,Rajasthan,73,48.1,Management,Business/Finance
+Bombay College of Pharmacy,Mumbai,Maharashtra,73,43.72,Pharmacy,Healthcare
+Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,74,47.92,Management,Business/Finance
+Bundelkhand University,Jhansi ,Uttar Pradesh,74,43.66,Pharmacy,Healthcare
+Guru Nanak Institute of Pharmaceutical Science and Technology,Kolkata,West Bengal,74,43.66,Pharmacy,Healthcare
+International Institute of Information Technology Bangalore,Bengaluru,Karnataka,74,48.61,Engineering,"Technology/IT,Engineering"
+M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,75,48.33,Engineering,"Technology/IT,Engineering"
+Jaipuria Institute of Management,Jaipur,Rajasthan,75,47.56,Management,Business/Finance
+National Institute of Technology Calicut,Kozhikode,Kerala,76,47.55,Management,Business/Finance
+Sant Longowal Institute of Engineering and Technology,Longowal,Punjab,76,48.22,Engineering,"Technology/IT,Engineering"
+Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,76,43.49,Pharmacy,Healthcare
+KIET Group of Institutions: KIET Group of Pharmacy,Ghaziabad,Uttar Pradesh,77,43.42,Pharmacy,Healthcare
+COEP Technological University,Pune,Maharashtra,77,47.89,Engineering,"Technology/IT,Engineering"
+"Jain University, Bangalore",Bengaluru,Karnataka,77,47.47,Management,Business/Finance
+"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,78,43.36,Pharmacy,Healthcare
+Banasthali Vidyapith,Banasthali,Rajasthan,78,47.86,Engineering,"Technology/IT,Engineering"
+Jamia Hamdard,New Delhi,Delhi,78,47.39,Management,Business/Finance
+Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,79,47.27,Management,Business/Finance
+National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,79,47.76,Engineering,"Technology/IT,Engineering"
+Sri Venkateswara College of Pharmacy,Chittoor,Andhra Pradesh,79,42.77,Pharmacy,Healthcare
+PSG College of Technology,Coimbatore,Tamil Nadu,80,47.13,Management,Business/Finance
+Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,80,47.43,Engineering,"Technology/IT,Engineering"
+Bharati Vidyapeeth College of Pharmacy,Kolhapur,Maharashtra,80,42.5,Pharmacy,Healthcare
+DIT University,Dehradun,Uttarakhand,81,42.48,Pharmacy,Healthcare
+National Institute of Technology Kurukshetra,Kurukshetra,Haryana,81,46.79,Engineering,"Technology/IT,Engineering"
+Cochin University of Science and Technology,Cochin,Kerala,81,47.08,Management,Business/Finance
+Arulmigu Kalasalingam College of Pharmacy,Srivilliputtur,Tamil Nadu,82,41.58,Pharmacy,Healthcare
+National Institute of Technology Agartala,Agratala,Tripura,82,46.69,Engineering,"Technology/IT,Engineering"
+Thiagarajar School of Management,Madurai,Tamil Nadu,82,47.02,Management,Business/Finance
+BML Munjal University,Gurgaon,Haryana,83,46.67,Management,Business/Finance
+Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,83,46.53,Engineering,"Technology/IT,Engineering"
+Sri Adichunchanagiri College of Pharmacy,B G Nagar,Karnataka,83,41.54,Pharmacy,Healthcare
+Prin. L.N. Welingkar Institute of Management Development and Research (PGDM),Mumbai,Maharashtra,84,46.53,Management,Business/Finance
+Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,84,46.39,Engineering,"Technology/IT,Engineering"
+B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,84,41.48,Pharmacy,Healthcare
+"Sam Higginbottom Institute of Agriculture, Technology and Sciences",Prayagraj,Uttar Pradesh,85,41.45,Pharmacy,Healthcare
+Indraprastha Institute of Information Technology,New Delhi,Delhi,85,46.32,Engineering,"Technology/IT,Engineering"
+Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,85,46.47,Management,Business/Finance
+Babasaheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,86,46.42,Management,Business/Finance
+Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,86,46.23,Engineering,"Technology/IT,Engineering"
+Acharya & B M Reddy College of Pharmacy,Bengaluru,Karnataka,86,41.35,Pharmacy,Healthcare
+Jagan Institute of Management Studies Technical Campus,Delhi,Delhi,87,46.38,Management,Business/Finance
+Indian Institute of Information Technology Allahabad,Prayagraj,Uttar Pradesh,87,45.84,Engineering,"Technology/IT,Engineering"
+Vishnu Institute of Pharmaceutical Education and Research,Narsapur,Telangana,87,41.19,Pharmacy,Healthcare
+New Delhi Institute of Management,Delhi,Delhi,88,46.29,Management,Business/Finance
+Jawaharlal Nehru Technological University,Hyderabad,Telangana,88,45.78,Engineering,"Technology/IT,Engineering"
+Kakatiya University,"Hanamkonda, Warangal",Telangana,88,41.15,Pharmacy,Healthcare
+Vinayaka Mission's Research Foundation,Salem,Tamil Nadu,89,41.01,Pharmacy,Healthcare
+Guru Gobind Singh Indraprastha University,New Delhi,Delhi,89,45.64,Engineering,"Technology/IT,Engineering"
+Pandit Deendayal Energy University,Gandhinagar,Gujarat,89,45.39,Management,Business/Finance
+Ramanbhai Patel College of Pharmacy,Anand,Gujarat,90,40.9,Pharmacy,Healthcare
+AU College of Engineering (A),Visakhapatnam,Andhra Pradesh,90,45.6,Engineering,"Technology/IT,Engineering"
+Birla Institute of Technology,Ranchi,Jharkhand,90,45.0,Management,Business/Finance
+"Uka Tarsadia University, Bardoli",Bardoli,Gujarat,91,40.87,Pharmacy,Healthcare
+"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,91,45.43,Engineering,"Technology/IT,Engineering"
+National Institute of Bank Management,Pune,Maharashtra,91,44.85,Management,Business/Finance
+Panjab University,Chandigarh,Chandigarh,92,44.7,Management,Business/Finance
+Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,92,45.4,Engineering,"Technology/IT,Engineering"
+Shri Vishnu College of Pharmacy,Bhimavaram,Andhra Pradesh,92,40.72,Pharmacy,Healthcare
+Goa College of Pharmacy,Panaji,Goa,93,40.69,Pharmacy,Healthcare
+Christ University,Bengaluru,Karnataka,93,45.02,Engineering,"Technology/IT,Engineering"
+Rajagiri Business School,Cochin,Kerala,93,44.33,Management,Business/Finance
+Dr. B. C. Roy College of Pharmacy and Allied Health Sciences,Durgapur,West Bengal,94,40.67,Pharmacy,Healthcare
+Chitkara University,Rajpura,Punjab,94,44.82,Engineering,"Technology/IT,Engineering"
+Bharathidasan Institute of Management,Tiruchirappalli,Tamil Nadu,94,44.17,Management,Business/Finance
+Tezpur University,Tezpur,Assam,95,43.48,Management,Business/Finance
+"Jain University, Bangalore",Bengaluru,Karnataka,95,44.61,Engineering,"Technology/IT,Engineering"
+CMR College of Pharmacy,Rangareddy,Telangana,95,40.51,Pharmacy,Healthcare
+National Institute of Agricultural Extension Management,Hyderabad,Telangana,96,43.17,Management,Business/Finance
+"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,96,44.55,Engineering,"Technology/IT,Engineering"
+P. E. Society`s Modern College of Pharmacy,Pune,Maharashtra,96,40.3,Pharmacy,Healthcare
+Principal K.M. Kundnani College of Pharmacy,Mumbai,Maharashtra,97,40.23,Pharmacy,Healthcare
+National Institute of Technology Puducherry,Karaikal,Pondicherry,97,44.38,Engineering,"Technology/IT,Engineering"
+Institute of Management Technology,Hyderabad,Telangana,97,43.01,Management,Business/Finance
+Krupanidhi College of Pharmacy,Bengaluru,Karnataka,98,40.1,Pharmacy,Healthcare
+SR University,Warangal,Telangana,98,44.29,Engineering,"Technology/IT,Engineering"
+Galgotias University,Gautam Budh Nagar,Uttar Pradesh,98,42.9,Management,Business/Finance
+Krea University,Sri City,Andhra Pradesh,99,42.82,Management,Business/Finance
+R.V. College of Engineering,Bengaluru,Karnataka,99,44.26,Engineering,"Technology/IT,Engineering"
+AISSMS College of Pharmacy,Pune,Maharashtra,99,39.97,Pharmacy,Healthcare
+National Institute of Technology Warangal,Warangal,Telangana,100,42.63,Management,Business/Finance
+Siddaganga Institute of Technology,Tumkur,Karnataka,100,43.95,Engineering,"Technology/IT,Engineering"
+"College of Pharmacy, Pandit Bhagwat Dayal Sharma University of Health Sciences",Rohtak,Haryana,100,39.54,Pharmacy,Healthcare

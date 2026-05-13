@@ -1,0 +1,789 @@
+Skills,Interests,Recommended_Career,source,Education,CGPA,career_label
+python;data analysis;machine learning,technology;data science,Data Scientist,ai_dataset,Not specified,Not specified,95
+java;system design;cloud computing,software development;ai,Software Engineer,ai_dataset,Not specified,Not specified,304
+graphic design;ui/ux;adobe creative suite,arts;digital media,UX Designer,ai_dataset,Not specified,Not specified,357
+python;deep learning;statistics,healthcare;ai,AI Researcher,ai_dataset,Not specified,Not specified,0
+project management;communication;agile,business;management,Project Manager,ai_dataset,Not specified,Not specified,250
+c++;embedded systems;iot,electronics;automation,Embedded Systems Engineer,ai_dataset,Not specified,Not specified,120
+sql;data warehousing;etl,finance;analytics,Data Analyst,ai_dataset,Not specified,Not specified,91
+content writing;seo;social media,marketing;communications,Digital Marketer,ai_dataset,Not specified,Not specified,111
+python;natural language processing;machine learning,linguistics;technology,NLP Engineer,ai_dataset,Not specified,Not specified,218
+financial analysis;excel;econometrics,finance;data analysis,Financial Analyst,ai_dataset,Not specified,Not specified,131
+research;statistical analysis;python,academia;biotech,Research Scientist,ai_dataset,Not specified,Not specified,271
+html;css;javascript,web development;design,Front-end Developer,ai_dataset,Not specified,Not specified,135
+java;algorithms;data structures,software engineering;coding,Software Developer,ai_dataset,Not specified,Not specified,302
+data visualization;python;r,data analysis;statistics,Data Analyst,ai_dataset,Not specified,Not specified,91
+machine learning;big data;python,technology;innovation,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+digital marketing;content creation;seo,marketing;social media,Digital Marketer,ai_dataset,Not specified,Not specified,111
+python;data mining;statistics,data science;finance,Data Scientist,ai_dataset,Not specified,Not specified,95
+c#;.net;software design,technology;gaming,Software Developer,ai_dataset,Not specified,Not specified,302
+project management;risk analysis;negotiation,business;management,Project Manager,ai_dataset,Not specified,Not specified,250
+user research;ux design;prototyping,design;technology,UX Designer,ai_dataset,Not specified,Not specified,357
+python;data analysis;sql,finance;analytics,Data Analyst,ai_dataset,Not specified,Not specified,91
+marketing strategy;digital marketing;crm,marketing;business,Marketing Manager,ai_dataset,Not specified,Not specified,196
+javascript;react;node.js,web development;technology,Full Stack Developer,ai_dataset,Not specified,Not specified,137
+data science;machine learning;python,healthcare;ai,AI Specialist,ai_dataset,Not specified,Not specified,1
+network security;linux;python,cybersecurity;technology,Cybersecurity Analyst,ai_dataset,Not specified,Not specified,85
+python;statistics;data mining,academia;research,Research Analyst,ai_dataset,Not specified,Not specified,268
+cloud computing;devops;python,technology;business,DevOps Engineer,ai_dataset,Not specified,Not specified,107
+content creation;graphic design;adobe photoshop,digital media;marketing,Graphic Designer,ai_dataset,Not specified,Not specified,146
+python;tensorflow;deep learning,technology;research,Deep Learning Engineer,ai_dataset,Not specified,Not specified,101
+sql;data warehousing;r,business;analytics,Business Analyst,ai_dataset,Not specified,Not specified,50
+java;spring;microservices,software engineering;finance,Backend Developer,ai_dataset,Not specified,Not specified,44
+html;css;javascript;ux,web design;technology,Front-end Developer,ai_dataset,Not specified,Not specified,135
+machine learning;r;python,biotech;data science,Biostatistician,ai_dataset,Not specified,Not specified,47
+digital illustration;adobe illustrator;creativity,arts;design,Graphic Designer,ai_dataset,Not specified,Not specified,146
+python;big data;machine learning,finance;technology,Data Engineer,ai_dataset,Not specified,Not specified,92
+copywriting;seo;social media,marketing;content,Content Strategist,ai_dataset,Not specified,Not specified,74
+python;javascript;data visualization,analytics;business,Data Analyst,ai_dataset,Not specified,Not specified,91
+business analysis;excel;sql,business;finance,Business Analyst,ai_dataset,Not specified,Not specified,50
+python;automation;data analysis,technology;engineering,Automation Engineer,ai_dataset,Not specified,Not specified,36
+graphic design;ux/ui;adobe xd,digital media;design,UX Designer,ai_dataset,Not specified,Not specified,357
+python;machine learning;ai,technology;innovation,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+digital marketing;analytics;seo,marketing;business,Digital Marketer,ai_dataset,Not specified,Not specified,111
+python;data analysis;r,finance;data science,Financial Analyst,ai_dataset,Not specified,Not specified,131
+content writing;storytelling;seo,media;marketing,Content Strategist,ai_dataset,Not specified,Not specified,74
+java;android;ui design,mobile apps;technology,Mobile Developer,ai_dataset,Not specified,Not specified,215
+ux research;prototyping;interaction design,design;user experience,UX Researcher,ai_dataset,Not specified,Not specified,358
+python;cybersecurity;network security,technology;security,Cybersecurity Specialist,ai_dataset,Not specified,Not specified,86
+sql;data analysis;excel,business;analytics,Data Analyst,ai_dataset,Not specified,Not specified,91
+cloud computing;python;devops,technology;business,Cloud Engineer,ai_dataset,Not specified,Not specified,68
+graphic design;illustration;adobe creative suite,arts;design,Graphic Designer,ai_dataset,Not specified,Not specified,146
+java;spring;microservices,software engineering;technology,Backend Developer,ai_dataset,Not specified,Not specified,44
+python;machine learning;tensorflow,ai;innovation,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+digital marketing;seo;content strategy,marketing;social media,Digital Marketer,ai_dataset,Not specified,Not specified,111
+sql;data warehousing;etl,finance;data analytics,Data Analyst,ai_dataset,Not specified,Not specified,91
+graphic design;illustration;adobe illustrator,arts;design,Graphic Designer,ai_dataset,Not specified,Not specified,146
+python;nlp;deep learning,ai;language,NLP Engineer,ai_dataset,Not specified,Not specified,218
+research;statistical analysis;r,academia;biotech,Research Scientist,ai_dataset,Not specified,Not specified,271
+project management;agile;communication,business;management,Project Manager,ai_dataset,Not specified,Not specified,250
+python;data visualization;r,data analysis;statistics,Data Analyst,ai_dataset,Not specified,Not specified,91
+java;algorithms;data structures,software development;coding,Software Developer,ai_dataset,Not specified,Not specified,302
+digital marketing;seo;content creation,marketing;communications,Digital Marketer,ai_dataset,Not specified,Not specified,111
+html;css;javascript,healthcare;ai,AI Researcher,ai_dataset,Not specified,Not specified,0
+c++;embedded systems;iot,business;management,Project Manager,ai_dataset,Not specified,Not specified,250
+sql;data warehousing;etl,finance;analytics,Embedded Systems Engineer,ai_dataset,Not specified,Not specified,120
+javascript;react;node.js,marketing;communications,Data Analyst,ai_dataset,Not specified,Not specified,91
+digital marketing;seo;content creation,cybersecurity;technology,Digital Marketer,ai_dataset,Not specified,Not specified,111
+project management;agile;communication,academia;research,NLP Engineer,ai_dataset,Not specified,Not specified,218
+python;deep learning;statistics,web development;design,Financial Analyst,ai_dataset,Not specified,Not specified,131
+financial analysis;excel;econometrics,technology;data science,Research Scientist,ai_dataset,Not specified,Not specified,271
+research;statistical analysis;python,software development;ai,Front-end Developer,ai_dataset,Not specified,Not specified,135
+cloud computing;devops;python,arts;digital media,Software Developer,ai_dataset,Not specified,Not specified,302
+java;algorithms;data structures,healthcare;ai,Data Analyst,ai_dataset,Not specified,Not specified,91
+ux research;prototyping;interaction design,business;management,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+copywriting;seo;social media,finance;analytics,Digital Marketer,ai_dataset,Not specified,Not specified,111
+network security;linux;python,marketing;communications,Data Scientist,ai_dataset,Not specified,Not specified,95
+c#;.net;software design,cybersecurity;technology,Software Developer,ai_dataset,Not specified,Not specified,302
+data visualization;python;r,academia;research,Project Manager,ai_dataset,Not specified,Not specified,250
+machine learning;big data;python,web development;design,UX Designer,ai_dataset,Not specified,Not specified,357
+python;data analysis;machine learning,technology;data science,Data Analyst,ai_dataset,Not specified,Not specified,91
+java;system design;cloud computing,software development;ai,Marketing Manager,ai_dataset,Not specified,Not specified,196
+graphic design;ui/ux;adobe creative suite,arts;digital media,Full Stack Developer,ai_dataset,Not specified,Not specified,137
+html;css;javascript,healthcare;ai,AI Specialist,ai_dataset,Not specified,Not specified,1
+c++;embedded systems;iot,business;management,Cybersecurity Analyst,ai_dataset,Not specified,Not specified,85
+sql;data warehousing;etl,finance;analytics,Research Analyst,ai_dataset,Not specified,Not specified,268
+javascript;react;node.js,marketing;communications,DevOps Engineer,ai_dataset,Not specified,Not specified,107
+digital marketing;seo;content creation,cybersecurity;technology,Graphic Designer,ai_dataset,Not specified,Not specified,146
+project management;agile;communication,academia;research,Deep Learning Engineer,ai_dataset,Not specified,Not specified,101
+python;deep learning;statistics,web development;design,Business Analyst,ai_dataset,Not specified,Not specified,50
+financial analysis;excel;econometrics,technology;data science,Backend Developer,ai_dataset,Not specified,Not specified,44
+cloud computing;devops;python,arts;digital media,Biostatistician,ai_dataset,Not specified,Not specified,47
+java;algorithms;data structures,healthcare;ai,Graphic Designer,ai_dataset,Not specified,Not specified,146
+ux research;prototyping;interaction design,business;management,Data Engineer,ai_dataset,Not specified,Not specified,92
+copywriting;seo;social media,finance;analytics,Content Strategist,ai_dataset,Not specified,Not specified,74
+network security;linux;python,marketing;communications,Data Analyst,ai_dataset,Not specified,Not specified,91
+c#;.net;software design,cybersecurity;technology,Business Analyst,ai_dataset,Not specified,Not specified,50
+data visualization;python;r,academia;research,Automation Engineer,ai_dataset,Not specified,Not specified,36
+python;data analysis;machine learning,technology;data science,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+java;system design;cloud computing,software development;ai,Digital Marketer,ai_dataset,Not specified,Not specified,111
+graphic design;ui/ux;adobe creative suite,arts;digital media,Financial Analyst,ai_dataset,Not specified,Not specified,131
+html;css;javascript,healthcare;ai,Content Strategist,ai_dataset,Not specified,Not specified,74
+c++;embedded systems;iot,business;management,Mobile Developer,ai_dataset,Not specified,Not specified,215
+sql;data warehousing;etl,finance;analytics,UX Researcher,ai_dataset,Not specified,Not specified,358
+javascript;react;node.js,marketing;communications,Cybersecurity Specialist,ai_dataset,Not specified,Not specified,86
+digital marketing;seo;content creation,cybersecurity;technology,Data Analyst,ai_dataset,Not specified,Not specified,91
+project management;agile;communication,academia;research,Cloud Engineer,ai_dataset,Not specified,Not specified,68
+python;deep learning;statistics,web development;design,Graphic Designer,ai_dataset,Not specified,Not specified,146
+financial analysis;excel;econometrics,technology;data science,Data Scientist,ai_dataset,Not specified,Not specified,95
+research;statistical analysis;python,software development;ai,Software Engineer,ai_dataset,Not specified,Not specified,304
+cloud computing;devops;python,arts;digital media,UX Designer,ai_dataset,Not specified,Not specified,357
+java;algorithms;data structures,healthcare;ai,AI Researcher,ai_dataset,Not specified,Not specified,0
+ux research;prototyping;interaction design,business;management,Project Manager,ai_dataset,Not specified,Not specified,250
+copywriting;seo;social media,finance;analytics,Embedded Systems Engineer,ai_dataset,Not specified,Not specified,120
+c#;.net;software design,cybersecurity;technology,Digital Marketer,ai_dataset,Not specified,Not specified,111
+data visualization;python;r,academia;research,NLP Engineer,ai_dataset,Not specified,Not specified,218
+machine learning;big data;python,web development;design,Financial Analyst,ai_dataset,Not specified,Not specified,131
+python;data analysis;machine learning,technology;data science,Research Scientist,ai_dataset,Not specified,Not specified,271
+java;system design;cloud computing,software development;ai,Front-end Developer,ai_dataset,Not specified,Not specified,135
+graphic design;ui/ux;adobe creative suite,arts;digital media,Software Developer,ai_dataset,Not specified,Not specified,302
+html;css;javascript,healthcare;ai,Data Analyst,ai_dataset,Not specified,Not specified,91
+c++;embedded systems;iot,business;management,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+sql;data warehousing;etl,finance;analytics,Digital Marketer,ai_dataset,Not specified,Not specified,111
+javascript;react;node.js,marketing;communications,Data Scientist,ai_dataset,Not specified,Not specified,95
+digital marketing;seo;content creation,cybersecurity;technology,Software Developer,ai_dataset,Not specified,Not specified,302
+project management;agile;communication,academia;research,Project Manager,ai_dataset,Not specified,Not specified,250
+python;deep learning;statistics,web development;design,UX Designer,ai_dataset,Not specified,Not specified,357
+financial analysis;excel;econometrics,technology;data science,Data Analyst,ai_dataset,Not specified,Not specified,91
+research;statistical analysis;python,software development;ai,Marketing Manager,ai_dataset,Not specified,Not specified,196
+cloud computing;devops;python,arts;digital media,Full Stack Developer,ai_dataset,Not specified,Not specified,137
+java;algorithms;data structures,healthcare;ai,AI Specialist,ai_dataset,Not specified,Not specified,1
+ux research;prototyping;interaction design,business;management,Cybersecurity Analyst,ai_dataset,Not specified,Not specified,85
+copywriting;seo;social media,finance;analytics,Research Analyst,ai_dataset,Not specified,Not specified,268
+network security;linux;python,marketing;communications,DevOps Engineer,ai_dataset,Not specified,Not specified,107
+c#;.net;software design,cybersecurity;technology,Graphic Designer,ai_dataset,Not specified,Not specified,146
+data visualization;python;r,academia;research,Deep Learning Engineer,ai_dataset,Not specified,Not specified,101
+machine learning;big data;python,web development;design,Business Analyst,ai_dataset,Not specified,Not specified,50
+python;data analysis;machine learning,technology;data science,Backend Developer,ai_dataset,Not specified,Not specified,44
+graphic design;ui/ux;adobe creative suite,arts;digital media,Biostatistician,ai_dataset,Not specified,Not specified,47
+html;css;javascript,healthcare;ai,Graphic Designer,ai_dataset,Not specified,Not specified,146
+c++;embedded systems;iot,business;management,Data Engineer,ai_dataset,Not specified,Not specified,92
+sql;data warehousing;etl,finance;analytics,Content Strategist,ai_dataset,Not specified,Not specified,74
+digital marketing;seo;content creation,cybersecurity;technology,Business Analyst,ai_dataset,Not specified,Not specified,50
+project management;agile;communication,academia;research,Automation Engineer,ai_dataset,Not specified,Not specified,36
+financial analysis;excel;econometrics,technology;data science,Machine Learning Engineer,ai_dataset,Not specified,Not specified,191
+research;statistical analysis;python,software development;ai,Digital Marketer,ai_dataset,Not specified,Not specified,111
+cloud computing;devops;python,arts;digital media,Financial Analyst,ai_dataset,Not specified,Not specified,131
+java;algorithms;data structures,healthcare;ai,Content Strategist,ai_dataset,Not specified,Not specified,74
+ux research;prototyping;interaction design,business;management,Mobile Developer,ai_dataset,Not specified,Not specified,215
+copywriting;seo;social media,finance;analytics,UX Researcher,ai_dataset,Not specified,Not specified,358
+network security;linux;python,marketing;communications,Cybersecurity Specialist,ai_dataset,Not specified,Not specified,86
+c#;.net;software design,cybersecurity;technology,Data Analyst,ai_dataset,Not specified,Not specified,91
+data visualization;python;r,academia;research,Cloud Engineer,ai_dataset,Not specified,Not specified,68
+machine learning;big data;python,web development;design,Graphic Designer,ai_dataset,Not specified,Not specified,146
+"python,sql,java",cloud computing,Software,recommender_dataset,B.Sc,85,301
+"critical thinking, analytic thinking, sql, programming, work under pressure, logical skills, problem solving skills",technology,Computer Software Engineer,recommender_dataset,B.E,66.5,71
+"plc allen bradley,plc ladder logic,labview,business analysis,end-to-end projectmanagement,crossfunctional team leadership,requirements gathering,lean six sigma,lean six sigma blackbelt,productivity improvement",technology,Plant Instrumentation Engineer,recommender_dataset,B.Tech,70.68,233
+"programming language skills,critical thinking,linux,python,sql,java",technology,senior software engineer,recommender_dataset,B.Tech,69.35,375
+"accounting skills, analytic thinking, cost accounting, team work, excel, problem solving skills, writing, tableau",financial analysis,Tele-caller,recommender_dataset,B.Com,63.745,344
+"analytic thinking, gathering informing, communication skills, team work, presentation skills, problem solving skills","take risk for profits, technology, entrepreneurship",Data Engineer,recommender_dataset,BE,71.44,92
+"analytical skills,data visualization skills( power bi/ tableau ),machine learning skills,python,sql","research,technology,data analytics,govt. job",Worked in Research Institute,recommender_dataset,BE,69.35,368
+"python, critical thinking, analytic thinking, gathering informing, sql, programming, leadership, product knowledge, cost accounting, market study, team work, excel, logical skills, r, problem solving skills, writing, tableau",entrepreneurship,Teacher,recommender_dataset,BE,71.25,333
+"matlab ,embedded c, arduino, c ++,c ,avr,eagle pcb,arm cortex-m,kicad,software project management",technology,Embedded System Engineer,recommender_dataset,B.Tech,81.7,119
+"active listening,critical thinking,analytical skills,people management,communication skills,leadership,problem solving skills,designing skills,proeficiency in software like staad pro, etabs","research,teaching,technology,data analytics",Assistant Professor,recommender_dataset,BE,74.33,16
+hardware skills,"teaching,technology,industires",Mine Engineer,recommender_dataset,M.Tech,92,212
+"proeficiency in software like staad pro, etabs,cad/cae(autocad/catia/ansys/proe/seimensnx)","technology,all fields related to data science.,industires,information technology",Mechanical Design Engineer,recommender_dataset,B.Tech,73.15,201
+"active listening,teaching",teaching,Teaching,recommender_dataset,BCA,69,334
+"critical thinking,problem solving skills,designing skills,interpersonal skills,python",design,Field Engineer,recommender_dataset,B.Tech,73.15,129
+"strategic planning,financial analysis,financial modeling,marketing strategy,financial services",financial analysis,Investment Banking Associate,recommender_dataset,BBA,73.625,165
+"business knowledge, people management, communication skills, work under pressure, leadership, market study, team work, interpersonal skills, presentation skills, designing skills, sales, design and analysis of automobile components, vehicle maintenance and reconditioning, design for manufacturer and assemble","financial analysis, sales/marketing, technology, entrepreneurship",Sales Executive,recommender_dataset,BE,84.55,280
+"creativity skills, excel, logical skills, observation skills, risk managing, designing skills, vlsi design,simulation,embedded,iot",embedded design,VLSI Digital Design,recommender_dataset,BE,81.795,363
+"active listening,business knowledge,communication skills,negotiation skills,leadership,product knowledge,problem solving skills,sales,interpersonal skills",sales/marketing,Life insurance,recommender_dataset,B.Com,55,182
+"business knowledge,analytical skills,negotiation skills,problem solving skills,data visualization skills( power bi/ tableau ),machine learning skills,sql","financial analysis,technology,trading,data analytics",Full stack developer,recommender_dataset,B.Tech,76.475,138
+"programming language skills,people management,mass communication,leadership,designing skills,writing skills,architecture",home interior design,Junior interior designer,recommender_dataset,B.Sc,74,173
+"business knowledge, product knowledge, team work, sales",take risk for profits,Tele-caller,recommender_dataset,B.Com,57,344
+"gathering informing, people management, communication skills, work under pressure, leadership, team work, interpersonal skills, mass communication, observation skills, risk managing",entrepreneurship,HR,recommender_dataset,B.Tech,65.55,149
+sports,government jobs,Pc,recommender_dataset,B.Sc,74.1,230
+"critical thinking, analytic thinking, product knowledge, team work, excel, observation skills, risk managing, reporting, reading, designing skills","research, take risk for profits, understand human behaviour",Design engineer,recommender_dataset,BE,76,105
+"docker,kubernetes,amazon web services (aws),bash,apache,
+new relic apm,jenkins,internet information services (iis),terraform,aks,continuous integration and continuous delivery (ci/cd),amazon ec2","information technology,blockchain",DevOps Engineer,recommender_dataset,B.Tech,74.67,107
+"full stack, java, python, reactjs",software job,Software developer,recommender_dataset,B.Tech,74.1,307
+"active listening,analytical skills,negotiation skills,product knowledge,problem solving skills,risk management skills,machine learning skills,python","supply chain analysis,data scientist,machine learning,excel",Production Engineer,recommender_dataset,BE,88.35,242
+"web development (php, codeigniter), java development, graphic desiging, android app development",software job,Software engineer 1,recommender_dataset,B.Tech,73.15,309
+cad/cae(autocad/catia/ansys/proe/seimensnx),"technology,industires",Mechanical Design Engineer,recommender_dataset,B.Tech,74.1,201
+"programming language skills,analytical skills,communication skills,leadership,editing,problem solving skills,designing skills,writing skills,machine learning skills,sales,social media marketing,r,python,artificial intelligence,sql,architecture,matlab,good communication skills,teaching,aws,php,programming language c,javascript","research,sales/marketing,teaching,technology,web designing,content writing,data analytics,digital marketing,data scientist,web development,market reserach,social media marketing,gardening,service,design,information technology,machine learning,excel",Junior Software Engineer,recommender_dataset,M.Tech,87,172
+"python, java, sql, programming, problem solving skills",it field,Mapping,recommender_dataset,B.Tech,69,194
+"business knowledge,negotiation skills,product knowledge,sales","technology,supply chain analysis",Associate SCM,recommender_dataset,B.Tech,60.8,28
+designing skills,technology,Engineer,recommender_dataset,Diploma,70,121
+"company law,company secretarial work,due diligence,corporate law,industrial and labour law,company law,corporate social responsibility,public company compliance,statutory compliances,regulatory compliance",financial analysis,Company Secretary,recommender_dataset,B.Com,83.03,69
+"active listening,programming language skills,gathering information,mass communication,content creation","teaching,technology,web designing",Programmer,recommender_dataset,B.Tech,68.4,247
+"active listening,negotiation skills",technology,Data Entry,recommender_dataset,BCA,71.25,93
+stack web development,software job,Associate software engineer,recommender_dataset,B.Tech,78.85,33
+"programming language skills,business knowledge,analytical skills,communication skills,python,sql","all fields related to data science.,machine learning,sports industry",Data Scientist-Intern,recommender_dataset,BE,73.53,96
+"power electronics,simulink,inverters,matlab,plc,variable frequency drives,switchgear,industrial control",technology,Engineer-Power Electronics,recommender_dataset,B.Tech,79.8,122
+"programming language skills,people management,communication skills,editing,c++,sql","technology,data analytics",Publishing executive,recommender_dataset,B.Sc,78,253
+"active listening,hardware skills,programming language skills,critical thinking,gathering information",web development,Senior software engineer,recommender_dataset,B.Tech,71,294
+"analytical skills,machine learning skills,python,artificial intelligence,sql","technology,supply chain analysis",Techno commercial,recommender_dataset,B.Tech,85,343
+"active listening,people management,civil & criminal law,negotiation skills,machine learning skills",understand human behaviour,Advocate,recommender_dataset,Law Hons  ,61.4,12
+"analytic thinking, product knowledge, team work, logical skills","research, sales/marketing, technology, entrepreneurship",Sales Executive,recommender_dataset,B.Tech,68.4,280
+"accounting skills,active listening,communication skills,product knowledge,problem solving skills","research,teaching,technology,trading",Electrician,recommender_dataset,B.Tech,52,117
+"programming language skills,critical thinking,analytical skills,problem solving skills,python,medical knowledge,matlab,teaching","research,teaching,technology,trading,understand human behaviour,understand human body,data scientist,market reserach,social media marketing,industires",Assistant Professor,recommender_dataset,BE,62.26,16
+"analytical skills,data visualization skills( power bi/ tableau ),machine learning skills,social media marketing,r,python,artificial intelligence",data analytics,Mechanical design engineer,recommender_dataset,B.Tech,63.9,205
+"c++,hadoop,java,sql,core java,javascript,pl/sql,informatica","trading,web designing,content writing,web development,social media marketing",System Engineer,recommender_dataset,B.Tech,80.37,325
+"active listening, python, gathering informing, programming",entrepreneurship,Mechanical Engineer,recommender_dataset,B.E,88.35,202
+"accounting skills,finance related skills,civil & criminal law,negotiation skills,risk management skills","financial analysis,social causes,information technology,agriculture, services,excel",CS,recommender_dataset,Law Hons,67,57
+"javascript,python",data analytics,Software Developer,recommender_dataset,B.Tech,73.15,302
+javascript,data analytics,Associate Software Engineer,recommender_dataset,B.Tech,65.55,29
+"hardware skills,programming language skills,communication skills,problem solving skills,risk management skills,writing skills,presentation skills,linux,python,java,cloud computing","technology,information technology",Software Engineer,recommender_dataset,B.Tech,71.25,304
+"teamwork,time management,company secretarial work,legal compliance,communication,teamleadership,interpersonal skills,presentations,interpersonal communication,companies act,indirect taxation",financial analysis,Company Secretary,recommender_dataset,B.Com,67.45,69
+"microbiology, cell culture ,molecular biology, bioprocess,
+katte virus","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,83.22,269
+cloud computing,information technology,Trainee Developer,recommender_dataset,B.Com,47,351
+"java backend development, c, c++, problem solving skills, jdbc programming ,object oriented programming, string stringbuffer and stringbuilder in java ,design and prototype in adobe xd ,html, css,javascript for web developers, responsive web design",machine learning,Full Stack Developer,recommender_dataset,B.Tech,84.55,137
+civil & criminal law,"social justice,social causes",Lawyer-Forensic Investigations,recommender_dataset,BALLB,74.1,179
+"accounting skills,active listening,programming language skills,gathering information,wealth management,content creation","supply chain analysis,content writing,data analytics",Assistent Manger,recommender_dataset,B.Tech,53,21
+civil & criminal law,social justice,litigation,recommender_dataset,Law Hons,73,372
+"proeficiency in software like staad pro, etabs","construction,construction manegement",Civil & Structural Engineer,recommender_dataset,B.Tech,83.41,62
+"ai, ml, python, critical thinking, analytic thinking, artistic skills, work under pressure, team work, logical skills, presentation skills","research, trading, understand human behaviour",Scientist,recommender_dataset,B.Sc,70,286
+"active listening, leadership, market study, team work, mass communication, writing, reading, sales","financial analysis, research, sales/marketing, trading, entrepreneurship",Mechanical Engineer,recommender_dataset,BE,68.4,202
+"finance related skills,people management,communication skills,leadership,sales,social media marketing","financial analysis,news coverage,sales/marketing,social causes,construction,construction manegement",Business,recommender_dataset,BBA,67,49
+"programming language skills,analytical skills,c++,linux,sql,java,cloud computing",financial analysis,Software Engineer,recommender_dataset,B.Tech,66.5,304
+active listening,industires,Supply Chain,recommender_dataset,Diploma,62.985,322
+"active listening,people management,leadership,cloud computing","trading,data analytics,data scientist,all fields related to data science.",Associate IT consultant,recommender_dataset,BE,59,27
+"active listening,programming language skills,critical thinking,communication skills,java,cloud computing","web designing,data scientist",Sales force,recommender_dataset,B.Tech,66.5,283
+"active listening,gathering information,analytical skills,leadership,machine learning skills,interpersonal skills,medical knowledge","teaching,technology,understand human body",Deputy warden,recommender_dataset,BE,66.88,103
+"gathering information,finance related skills,civil & criminal law","teaching,design",Teacher,recommender_dataset,B.Tech,66,333
+"active listening,work under pressure,team work,presentation skills,reading",teaching,Teaching,recommender_dataset,B.Tech,65.55,334
+"bootstrap,node.js,angular,jira,trello,jquery,javascript,ajax,php,codeignitor,loopback,","data scientist,web development,social causes,all fields related to data science,machine learning",Web Developer,recommender_dataset,B.Tech,72.2,366
+"business knowledge, people management, communication skills, logical skills, problem solving skills, reading, sales","sales/marketing, entrepreneurship",Business Consultant,recommender_dataset,Bachelor of Management Studies,61.56,51
+teaching experience,govt. job,Teaching experience 5 years,recommender_dataset,B.Sc,60,336
+"accounting skills, business knowledge, editing, excel, designing skills, sales",hospitality,Medical Practitioner,recommender_dataset,Diploma in pharmacy ,84.55,209
+"accounting skills,critical thinking,gathering information,artistic/creative skills,analytical skills","news coverage,social justice,content writing,govt. job",Sub Editor,recommender_dataset,B.Sc,67,319
+"polymerase chain reaction (pcr),molecular biology,life sciences,molecular biology protein purification,protein chemistry,protein assays,protein electrophoresis,protein chromatography,western blotting,protein structure prediction,protein kinases, protein structure ,protein characterization ,protein engineering","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,70.015,269
+"active listening,critical thinking",technology,Se,recommender_dataset,B.Sc,70,288
+"phytochemistry,metabolomics,protein expression,pcr,molecular biology,life sciences,polymerase chain reaction (pcr),dna,biochemistry,bioinformatics,cell culture,protein purification,chemometrics","research,understand human body,biotechnology",Assistant Professor,recommender_dataset,B.Tech,84.075,16
+"artistic/creative skills,mass communication","news coverage,content writing",Sub-editor,recommender_dataset,Bachelor of journalism,64,321
+"leadership,r,python,sql",all fields related to data science.,Maths Content Developer,recommender_dataset,B.Tech,54.44,200
+"active listening,finance related skills,people management,communication skills,negotiation skills,interpersonal skills,hr","financial analysis,sales/marketing,trading,understand human behaviour",HR executive,recommender_dataset,BBA,76.95,151
+"active listening,hardware skills,critical thinking,gathering information,artistic/creative skills,business knowledge","teaching,technology,trading,home interior design,industires,design",Civil engineer,recommender_dataset,B.Tech,71,65
+"python, java",software job,R&D Engineer,recommender_dataset,B.Tech,78.85,264
+"excel, interpersonal skills, presentation skills, subject knowledge",technology,Mechanical Engineer,recommender_dataset,B.Tech,65,202
+"programming language skills,communication skills,leadership,problem solving skills,linux,sql,good communication skills,foreign languages french, spanish","web designing,web development,social media marketing,information technology",Associate Consultant,recommender_dataset,B.Tech,84.55,23
+diploma in visual effects,software job,Vfx artist,recommender_dataset,B.Tech,73.15,364
+"python, java, sql, oracle, programming, team work, linux, problem solving skills, subject knowledge",technology,PLM CONSULTANT,recommender_dataset,B.E,83.6,227
+communication skills,govt. job,Quality Engineer,recommender_dataset,BE,71.82,261
+designing skills,technology,Design engineer,recommender_dataset,BE,68.4,105
+"critical thinking,artistic/creative skills,leadership,product knowledge,problem solving skills,designing skills","technology,trading,understand human behaviour,design",UX designer,recommender_dataset,B.Tech,61.75,359
+"accounting skills,business knowledge,people management,communication skills,product knowledge,data visualization skills( power bi/ tableau ),sql,hr,good communication skills","financial analysis,research,technology,understand human behaviour,data analytics,game industry",Swimming coach,recommender_dataset,BBA,50.635,323
+"accounting skills, business knowledge, programming, people management, leadership, creativity skills, team work, excel, presentation skills, problem solving skills, reporting","take risk for profits, teaching, technology",Office assistant and acoounts,recommender_dataset,B.Sc,58,222
+"active listening,programming language skills,critical thinking,gathering information,artistic/creative skills,communication skills,problem solving skills,designing skills,writing skills,c++,presentation skills,linux,artificial intelligence,sql,content creation,java,cloud computing","research,technology,web designing,content writing,digital marketing",Software Programmer,recommender_dataset,BCA,76.89,305
+"accounting skills,active listening,programming language skills,critical thinking,gathering information,analytical skills,finance related skills,civil & criminal law,communication skills,problem solving skills,risk management skills,designing skills,data visualization skills( power bi/ tableau ),machine learning skills,sales,social media marketing,interpersonal skills,presentation skills,r,python,sql,content creation,java,cloud computing,architecture","financial analysis,research,sales/marketing,technology,trading,understand human behaviour,understand human body,supply chain analysis,web designing,content writing,data analytics,data scientist,web development,market reserach,social media marketing,gardening,social causes",Assistant System Engineer,recommender_dataset,B.Sc,66,17
+"programming language skills,python,sql,java,aws,javascript","technology,web designing,data analytics,data scientist,web development,all fields related to data science.,machine learning",Back-end Developer,recommender_dataset,BCA,74.29,43
+"programming language skills,critical thinking,editing",home interior design,Operator,recommender_dataset,BE,63.65,225
+"gathering information,people management,communication skills,product knowledge,problem solving skills,java,client management,good communication skills","technology,sports industry",Associate Software Engineer,recommender_dataset,BE,67.45,29
+"protein expression ,protein purification, molecular biology, biochemistry, protein chemistry ,western blotting ,cell culture, cell biology, bioinformatics,
+polymerase chain reaction (pcr) ,molecular cloning, microscopy,
+chromatography,
+enzyme kinetics,
+biophysics electron microscopy,
+cryo-em,x-ray crystallography,
+static light scattering,chromatrography",research,Research Associate,recommender_dataset,B.Sc,84.265,269
+"communication skills,writing skills,c++,python,sql,java","technology,web designing,data analytics",Associate consultant,recommender_dataset,B.Tech,79,31
+"programming language skills,problem solving skills",web development,Associate technology l2,recommender_dataset,B.Tech,87.685,34
+"active listening,hardware skills,communication skills,negotiation skills","understand human behaviour,understand human body,govt. job,industires",Lab assistent,recommender_dataset,BA,72,176
+"critical thinking,finance related skills,people management,communication skills,leadership,designing skills,social media marketing",web designing,Test engineer,recommender_dataset,B.Tech,80.655,348
+"proeficiency in software like staad pro, etabs","industires,sap consultant in mm,construction",Civil & Structural Engineer,recommender_dataset,B.Tech,65.55,62
+"active listening,critical thinking,gathering information,analytical skills,finance related skills,proeficiency in software like staad pro, etabs,good communication skills,sap","construction,construction manegement,urban planning,project management",Civil & Structural Engineer,recommender_dataset,B.Tech,77.615,62
+"business knowledge, sales",social justice,Teacher,recommender_dataset,B.Sc,74.1,333
+"ai, ml, python, sql, negotiation skills, work under pressure, leadership, news gathering, editing, market study, team work, derivatives, excel, tableau, catia , ansys ,solidworks,caesar 2",technology,Mechanical Engineer,recommender_dataset,B.Tech,67.545,202
+"business knowledge, leadership, market study",technology,Mechanical Engineer,recommender_dataset,B.Tech,80.75,202
+"programming language skills,critical thinking,artistic/creative skills,analytical skills,machine learning skills,python,sql,java","technology,data analytics,data scientist",Data Scientist,recommender_dataset,B.Tech,68.4,95
+"team work, excel, designing skills",technology,Graduate Quality Engineer,recommender_dataset,B.Tech,66.5,145
+"accounting skills,active listening,programming language skills,problem solving skills,designing skills,r,python,sql,hr,matlab",web designing,ERP IMPLEMENTATION,recommender_dataset,B.Sc,65,116
+"people management,leadership,designing skills,writing skills,social media marketing","research,teaching,govt. job,design,sports industry",Teacher,recommender_dataset,BA,83,333
+"programming language skills,analytical skills,people management,communication skills,leadership,problem solving skills,python,sql,java,teaching","technology,data analytics,data scientist",Customer operation associate,recommender_dataset,B.Tech,60,82
+"people management, observation skills, designing skills",technology,Structural engineer,recommender_dataset,BE,85,318
+"analytical skills,communication skills,product knowledge,problem solving skills,risk management skills,designing skills,writing skills,presentation skills","research,technology,industires,design,product life cycle management",Design Engineer,recommender_dataset,BE,74.1,104
+"c,javascript,data structure,css, jquery ,angular js ,javascript, html5 ,css3,
+ssis, ssms, python, react.js ,java enterprise edition","data scientist,web development,social causes,all fields related to data science.machine learning",Software Engineer,recommender_dataset,B.Tech,67.45,304
+"css,c++,javascript,mysql,java,sql,cascading style sheets (css),website development,jquery,html5,linux,ajax,software development,xml,cakephp,codeigniter,laravel,symfony,symfony framework,git,angular command line interface (cli),yii2","data scientist,web development,social causes,all fields related to data science,machine learning",Web Developer,recommender_dataset,B.Tech,76,366
+"communication skills,writing skills,c++",information technology,Data entry,recommender_dataset,BCA,86,97
+"gathering information,artistic/creative skills,analytical skills,communication skills","news coverage,research,sales/marketing,social justice,teaching",Sales,recommender_dataset,B.Sc,68.4,279
+"python, sql","research, technology",Devops Engineer,recommender_dataset,B.Tech,74.1,109
+"ml, python, analytic thinking, business knowledge, leadership, team work, excel, r, problem solving skills, data science completed by using python and r",data science and artificial intelligence,Mechanical Engineer,recommender_dataset,B.Tech,63.9,202
+"programming language skills,business knowledge,communication skills,problem solving skills","technology,content writing,web development",Associate Consultant,recommender_dataset,BE,65,23
+"programming language skills,communication skills,sql,java","technology,data scientist,web development",Trainee,recommender_dataset,BE,75.39,350
+"java, programming",trading,Java Developer,recommender_dataset,B.Tech,72.2,166
+"programming language skills,critical thinking,communication skills,problem solving skills,risk management skills,c++,presentation skills,linux,cloud computing",technology,Assistant System Engineer (TCS),recommender_dataset,B.Tech,76.095,18
+"java, sql, programming, communication skills, team work, presentation skills",technology,Automation in java lang,recommender_dataset,B.E,77.615,37
+"writing, reading","research, social justice, understand human body",Mechanical Engineer,recommender_dataset,B.E,73.625,202
+"ml, python, business knowledge, java, linux, aws","financial analysis, technology, entrepreneurship",Back End Developer,recommender_dataset,B.Tech,66.5,40
+"php,programming language c,javascript",mobile app development,Mobile Application Developer,recommender_dataset,B.Tech,83.6,214
+excel,understand human body,Doctor,recommender_dataset,B.Pharmacy,73,114
+"accounting skills,active listening,hardware skills,sales,social media marketing,hr",service,Service Advisor,recommender_dataset,BE,59.09,295
+"critical thinking,communication skills,sap",technology,Production Engineer,recommender_dataset,BE,75,242
+"python, people management, communication skills, work under pressure, leadership, creativity skills, team work","sales/marketing, entrepreneurship",Digital/Social Media Marketer,recommender_dataset,BE,83.125,113
+python,govt. job,CIS,recommender_dataset,BE,73.72,56
+"active listening, programming, work under pressure, teamwork,excel,logical skills interpersonal skills, presentation skills, reading","technology,trading",SQL Developer,recommender_dataset,B.Tech,70.3,276
+"active listening, analytic thinking, business knowledge, work under pressure, team work, presentation skills, writing, observation skills, risk managing, reading, subject knowledge","take risk for profits, technology, trading, entrepreneurship",Front End Developer,recommender_dataset,B.E,74.1,133
+"programming language skills,people management,designing skills,social media marketing,interpersonal skills,good communication skills","digital marketing,data scientist,social media marketing",Software engineer,recommender_dataset,B.Tech,33.25,308
+"business knowledge,product knowledge,problem solving skills,risk management skills,sales,client management","sales/marketing,trading,retailer,market reserach,construction manegement,excel","Listing, Marketting , Stocking and Selling",recommender_dataset,BCA,70,184
+"java enterprise edition,hibernate,zuul api gateway,spring cloud,apache zookeeper,amazon ec2,zoho,oracle crm,spring boot,spring mvc,docker,apache drill,angular",cloud computing,AWS Architect,recommender_dataset,B.Tech,81.7,5
+"accounting skills, business knowledge, negotiation skills, work under pressure, interpersonal skills",financial analysis,Articleship,recommender_dataset,B.Com,75,14
+"python, java",technology,Java Developer,recommender_dataset,B.Tech,65.55,166
+"writing skills,medical knowledge",understand human body,Dental surgeon,recommender_dataset,Doctor ,89,102
+"altium designer,printed circuit board (pcb) design,ni labview, digital electronics semiconductors,arduino,xilinx vivado,verilog,kicad,ni multisim,eagle pcb,electronic circuit design,altium circuitmaker,internet of things (iot),electronics hardware design,orcad capture cis,orcad",hardware,Hardware PCB Design Engineer,recommender_dataset,B.Tech,76.95,154
+"hr,good communication skills","understand human behaviour,social causes",HR executive,recommender_dataset,BA,70,151
+"accounting skills,active listening,hardware skills,critical thinking,people management,communication skills,leadership,designing skills,writing skills",research,Production field,recommender_dataset,BE,63.27,244
+"people management,leadership,problem solving skills",production supervisor,Production Supervisor,recommender_dataset,BE,64.125,243
+"python, programming, communication skills, leadership, c++, writing, observation skills",technology,Computer Software Engineer,recommender_dataset,B.Sc,77.995,71
+"accounting skills, active listening, cost accounting, market study, excel, logical skills, problem solving skills, writing, sales, building rapport",financial analysis,Account Assistant,recommender_dataset,B.A.F,75.05,7
+"programming language skills,critical thinking,analytical skills,communication skills,leadership,problem solving skills,data visualization skills( power bi/ tableau ),machine learning skills,r,python,artificial intelligence","data analytics,data scientist",Python instructor,recommender_dataset,B.Tech,68.3,256
+"gathering information,business knowledge,analytical skills,people management,civil & criminal law,communication skills,negotiation skills,mass communication,leadership","news coverage,technology",Crime reporter,recommender_dataset,B.Tech,72,79
+"critical thinking, artistic skills, communication skills, editing, interpersonal skills, reporting, reading, subject knowledge",teaching,Teacher,recommender_dataset,M.A,83,333
+team work,trading,Stock Trader,recommender_dataset,B.Com,57.95,315
+"python, gathering informing, business knowledge","news coverage, social justice",Mechanical Engineer,recommender_dataset,BBA,95,202
+"sql,java,javascript",information technology,Programmer,recommender_dataset,BCA,69.92,247
+"active listening,designing skills,python","research,data analytics,data scientist",Modeler,recommender_dataset,B.Tech,67,216
+"data visualization skills( power bi/ tableau ),python,sql,client management,good communication skills","news coverage,research,social justice,technology,trading,understand human behaviour,supply chain analysis,data analytics,digital marketing,data scientist,market reserach,social media marketing",BA,recommender_dataset,BE,54.15,38
+"accounting skills,finance related skills,people management,civil & criminal law","sales/marketing,technology,supply chain analysis,govt. job,market reserach,infrastructure,design",Quality Engineer,recommender_dataset,BE,67.4,261
+"critical thinking, analytic thinking, business knowledge, sql, programming, communication skills, work under pressure, editing, team work, excel, logical skills, interpersonal skills, presentation skills, tableau, building rapport",technology,Computer Software Engineer,recommender_dataset,B.Tech,82.175,71
+"critical thinking,gathering information,artistic/creative skills,communication skills,mass communication,editing,writing skills,content creation","news coverage,understand human behaviour,content writing,govt. job,social causes",Junior sub editor,recommender_dataset,Bachelor of journalism,75,174
+"active listening,people management,communication skills,leadership,editing,social media marketing","news coverage,digital marketing",Content Creator,recommender_dataset,Master of journalism,71.25,73
+"ai, ml, python, java",technology,Java Developer,recommender_dataset,B.Tech,73.15,166
+"designing skills,machine learning skills,social media marketing","social media marketing,design",DET,recommender_dataset,Diploma,81,87
+"people management,leadership","sales/marketing,technology,product life cycle management",Mechanical Supervisor,recommender_dataset,BE,65.55,203
+"leadership,product knowledge,sales","supply chain analysis,product life cycle management",Quality Engineer,recommender_dataset,BE,63.175,261
+civil & criminal law,construction,Civil engineer,recommender_dataset,B.Tech,70,65
+"analytical skills,leadership,social media marketing","teaching,technology",Design Engineer,recommender_dataset,BE,71.155,104
+"accounting skills, gathering informing, business knowledge, people management, product knowledge, excel, observation skills","financial analysis, take risk for profits, trading, understand human behaviour, understand human body",Site engineer,recommender_dataset,B.E,65.55,299
+"programming language skills,wealth management,python","technology,web designing",Developer,recommender_dataset,BE,70.3,108
+"ai, python",technology,Computer Software Engineer,recommender_dataset,B.Sc,77.9,71
+"active listening,people management,leadership","supply chain analysis,data analytics",Store keeper,recommender_dataset,BE,71.25,316
+"accounting skills,critical thinking,artistic/creative skills,business knowledge,analytical skills,finance related skills,civil & criminal law,mass communication,editing,product knowledge,problem solving skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,social media marketing,c++,presentation skills,python,content creation,medical knowledge,java,hr,proeficiency in software like staad pro, etabs","web designing,govt. job,web development",Sales,recommender_dataset,BE,69,279
+"programming language skills,finance related skills,editing,c++,python,artificial intelligence,sql,java",technology,Associate consultant,recommender_dataset,B.Tech,62,31
+"hardware skills,plc/scada/vlsi/dcs","technology,industires,information technology",Instrumentation and Control Engineer,recommender_dataset,B.Tech,85.69,163
+"creativity skills, team work, programming","technology,teaching",Java Full Stack Developer,recommender_dataset,B.Tech,68.4,167
+"proeficiency in software like staad pro, etabs","construction,construction manegement,urban planning",Civil & Structural Engineer,recommender_dataset,B.Tech,79.8,62
+programming,technology,Tele-caller,recommender_dataset,B.Sc,62,344
+javascript,"web designing,web development",Associate Consultant,recommender_dataset,B.Tech,95,23
+communication skills,technology,Chemist in pharmaceutical,recommender_dataset,M.Sc,78.85,61
+"gathering informing, leadership, market study, team work","research, teaching, technology",Design Engineer,recommender_dataset,BE,83.6,104
+"programming, logical skills, observation skills",entrepreneurship,Back End Developer,recommender_dataset,BE,84.55,40
+"accounting skills, active listening, gathering informing, java, sql, programming, communication skills, work under pressure, news gathering, editing, product knowledge, excel, interpersonal skills, presentation skills, c++, problem solving skills, observation skills, building rapport","financial analysis, technology, entrepreneurship, understand human behaviour",Java Developer,recommender_dataset,B.Tech,78.565,166
+"analytical skills,data visualization skills( power bi/ tableau ),c++,python,sql,java,aws","data analytics,data scientist,social media marketing",Software Engineer,recommender_dataset,B.Tech,80.75,304
+"ml, business knowledge, people management, communication skills, negotiation skills, leadership, product knowledge, team work, excel","technology, understand human behaviour",Computer Software Engineer,recommender_dataset,B.Tech,74.1,71
+"programming, communication skills, work under pressure, leadership, editing, product knowledge, team work, excel, logical skills, interpersonal skills, presentation skills, c++, problem solving skills, mass communication, writing, reading, designing skills, sales","research, sales/marketing, social justice, teaching, technology, entrepreneurship, understand human behaviour",Business developer,recommender_dataset,B.E,83.315,53
+"c++,python,sql,java,architecture,php",mobile app development,Mobile Application Developer,recommender_dataset,B.Tech,79.8,214
+"accounting skills, business knowledge, people management, work under pressure, cost accounting, reading","financial analysis, research, technology",Chartered Accountant,recommender_dataset,B.Com,69,59
+"programming language skills,critical thinking,gathering information,artistic/creative skills,business knowledge,communication skills,leadership,designing skills,machine learning skills,sales,social media marketing,artificial intelligence,good communication skills,us & canada recruitment (it),aws,php","social justice,technology,web designing,digital marketing,web development,market reserach,social media marketing,information technology,machine learning,agriculture, services",Web Developer and Digital Marketer,recommender_dataset,MBA,55,367
+editing,content writing,Sub-editor,recommender_dataset,Master of journalism ,59,321
+"sales, subject knowledge","teaching, entrepreneurship",Medical Practitioner,recommender_dataset,Pharmacy,60,209
+"reading, sales","teaching, entrepreneurship",Teacher,recommender_dataset,D ed,57,333
+"python, c++, problem solving ,kivy, competitive programming, data structures ,backend web development ,spring boot, spring framework","machine learning,all fields related to data science",Software Developer,recommender_dataset,B.Tech,87.59,302
+leadership,trading,Tele-caller,recommender_dataset,BBA,69,344
+"analytical skills,communication skills,product knowledge,risk management skills,good communication skills","technology,govt. job",Customer service,recommender_dataset,MCA,45,83
+"proeficiency in software like staad pro, etabs",construction manegement,Civil & Structural Engineer,recommender_dataset,B.Tech,71.25,62
+"active listening,critical thinking,gathering information,people management,communication skills,mass communication,editing,problem solving skills,writing skills,content creation","news coverage,understand human behaviour,content writing,digital marketing",Catalog Associate,recommender_dataset,B.Sc,78,58
+java,teaching,Software Engineer,recommender_dataset,B.Tech,58.615,304
+"hardware skills,analytical skills,communication skills,leadership,editing,product knowledge,problem solving skills,risk management skills,designing skills",design,Mechanical design Engineer,recommender_dataset,Diploma,60,204
+"analytic thinking, sql, oracle, programming, communication skills, interpersonal skills","research, teaching, geography and geology",Computer Software Engineer,recommender_dataset,B.Tech,70.775,71
+"java, sql, programming, team work",technology,Computer Software Engineer,recommender_dataset,B.Tech,75.81,71
+"creativity skills,leadership,market study, teamwork, programming","technology,entrepreneurship",Java Developer,recommender_dataset,B.Tech,78.85,166
+"active listening,critical thinking,gathering information,artistic/creative skills,analytical skills,people management,communication skills,negotiation skills,mass communication,leadership,problem solving skills,risk management skills,designing skills,writing skills,machine learning skills,social media marketing,interpersonal skills,presentation skills,linux,artificial intelligence,sql,medical knowledge,cloud computing,hr","news coverage,technology,understand human behaviour,understand human body,data analytics,home interior design",Video labeling(Artificial intelligence) and Medical Coding,recommender_dataset,BCA,86,365
+"accounting skills, python, critical thinking, analytic thinking, business knowledge, communication skills, negotiation skills, leadership, editing, product knowledge, cost accounting, creativity skills, market study, team work, derivatives, logical skills, c++, problem solving skills, observation skills, risk managing, designing skills, building rapport","financial analysis, research, take risk for profits, technology, trading",Admin,recommender_dataset,M.Sc,68.4,11
+"active listening,gathering information,artistic/creative skills,editing,problem solving skills,sql","technology,data analytics,game industry",Programmer,recommender_dataset,B.Tech,60,247
+"python, artistic skills, sql, communication skills, editing, excel, c++",technology,Programmer,recommender_dataset,B.Tech,60,247
+"active listening,critical thinking,gathering information,artistic/creative skills,communication skills,problem solving skills,risk management skills,writing skills,data visualization skills( power bi/ tableau ),presentation skills,good communication skills","research,technology,data analytics,data scientist",Quality Assurance,recommender_dataset,BE,75,259
+"business knowledge, communication skills, negotiation skills, work under pressure, leadership, creativity skills, market study, team work, excel, logical skills, interpersonal skills, presentation skills, observation skills, sales","sales/marketing, teaching, entrepreneurship",Business development associate,recommender_dataset,BE,84.55,54
+"programming language skills,r,python,programming language c,sas",statistical programmer,Statistical programmer,recommender_dataset,B.Tech,65,313
+"active listening,business knowledge,lotus notes","technology,understand human behaviour,understand human body,data scientist",Lotus Notes Admin,recommender_dataset,B.Tech,60,187
+"active listening,programming language skills,critical thinking,gathering information,business knowledge,analytical skills,people management,negotiation skills,sql,hr,client management,us & canada recruitment (it)","technology,data analytics,data scientist,information technology","Senior Technical Recruiter, Recruitment Specialist, Talent Acquisition Specialist (IT)",recommender_dataset,B.Tech,57.08,293
+"active listening, communication skills, designing skills",understand human behaviour,Structural Engineer,recommender_dataset,B.Tech,79.8,317
+"ai, ml, python, java, sql, oracle, programming, work under pressure, leadership, product knowledge, team work, logical skills, presentation skills, c++, problem solving skills, writing, observation skills, subject knowledge",technology,Computer Software Engineer,recommender_dataset,B.Tech,87.4,71
+linux,technology,Linux Administrator,recommender_dataset,B.Tech,56.525,183
+"active listening, ai, ml, python, critical thinking, analytic thinking, programming, communication skills, work under pressure, leadership, c++, problem solving skills","research, technology, entrepreneurship",Front End Developer,recommender_dataset,BE,88.16,133
+python,technology,Mechanical Engineer,recommender_dataset,B.Tech,70,202
+"python, java","research, technology",Computer Software Engineer,recommender_dataset,B.Tech,61.75,71
+engineering,engineering,Mechanical Engineer,recommender_dataset,B.Tech,76,202
+"active listening,hardware skills,programming language skills,communication skills,r,python,sql,matlab,good communication skills","technology,data scientist,machine learning",store assistant,recommender_dataset,BE,60,378
+"critical thinking, analytic thinking, business knowledge, communication skills, negotiation skills, leadership, creativity skills, team work, interpersonal skills, problem solving skills, risk managing, designing skills","social justice, technology",Computer Software Engineer,recommender_dataset,B.E.,80.75,71
+"active listening,programming language skills,critical thinking,designing skills,sql,java,cloud computing",technology,Software engineer,recommender_dataset,BCA,73.15,308
+"data visualization skills( power bi/ tableau ),machine learning skills,python,artificial intelligence",data scientist,Developer,recommender_dataset,B.Tech,66.5,108
+"ml, critical thinking, analytic thinking, gathering informing, communication skills, work under pressure, writing","research, social justice, teaching",Engineer,recommender_dataset,BE,80.75,121
+"business knowledge, product knowledge, team work, reading, building rapport",sales/marketing,Sales Executive,recommender_dataset,B.E,65.835,280
+"active listening,programming language skills,critical thinking,gathering information,business knowledge,analytical skills,problem solving skills,data visualization skills( power bi/ tableau ),machine learning skills,r,python,sql","financial analysis,research,technology,game industry",Executive Engineer,recommender_dataset,BE,67,126
+"active listening,programming language skills,critical thinking,gathering information,analytical skills,problem solving skills,machine learning skills,presentation skills,r,python,sql","research,game industry,digital marketing,data scientist,all fields related to data science.,information technology,blockchain",Executive Engineer,recommender_dataset,BE,67,126
+"gathering informing, product knowledge",entrepreneurship,Network engineer,recommender_dataset,B.Tech,64.125,219
+"gathering information,business knowledge,analytical skills,designing skills,presentation skills,content creation","technology,data analytics,data scientist,all fields related to data science.",Product development associate,recommender_dataset,B.Tech,71.345,241
+"analytical skills,people management,communication skills,product knowledge,problem solving skills,risk management skills,data visualization skills( power bi/ tableau ),machine learning skills,presentation skills,python,matlab","financial analysis,sales/marketing,data analytics",Team lead in Mortgage banking;,recommender_dataset,B.Com,43,338
+"active listening, work under pressure,teamwork,interpersonal skills, presentation skills, reading",teaching,Teaching,recommender_dataset,B.Tech,71.25,334
+"business knowledge, sql, programming, people management, communication skills, work under pressure, editing, creativity skills, team work, excel, linux, problem solving skills, observation skills, reading","technology, entrepreneurship",Dot net Developer,recommender_dataset,B.Tech,71.25,115
+"business knowledge, people management, work under pressure, digital marketing","research, sales/marketing, entrepreneurship",Digital/Social Media Marketer,recommender_dataset,B.Tech,66.5,113
+"active listening,programming language skills,critical thinking,gathering information,communication skills,leadership,good communication skills,teaching","social justice,teaching,govt. job,agriculture, services",Receptionist in coaching center,recommender_dataset,Diploma,78,267
+hardware skills,govt. job,Web Developer,recommender_dataset,B.Tech,82.91,366
+artistic/creative skills,sales/marketing,Dancing,recommender_dataset,B.Com,68,90
+"cell culture,microbiology,molecular genetics,microbial genetics,proteomics,pcr,bioinformatics,elisa,qrt-pcr,mammalian cell culture,rna isolation,site-directed mutagenesis,molecular & cellular biology,immunology,cell biology,dna extraction",understand human body,Research Fellow,recommender_dataset,B.Tech,86.45,270
+"python, analytic thinking, java, oracle, editing, c++, problem solving skills",teaching,Not working,recommender_dataset,B.Tech,77,220
+"communication skills,negotiation skills,product knowledge,designing skills","research,sales/marketing,technology,understand human behaviour",Design Engineer,recommender_dataset,BE,69.35,104
+"accounting skills,risk management skills,designing skills,writing skills","sales/marketing,teaching,technology",Assistent Engineer,recommender_dataset,B.Tech,77.55,20
+"ai, ml, python",technology,ML Engineer,recommender_dataset,B.Tech,56,190
+"html,c,php,css,drupal,javascript,mssql,jquery,netbeans,mysql,ajax,xml","web development,social causes,all fields related to data science,machine learning,data scientist",Web Developer,recommender_dataset,B.Tech,83.6,366
+"cell culture ,plant tissue culture, environmental biotechnology, microbiology ,nanomaterials ,nanoparticles,nanobiotechnology, gas chromatographyhigh-performance liquid chromatography (hplc), electrospinning, mammalian cell culture ,bacterial culture, ndds ,chromatography,tissue culture,uv/vis spectroscopy","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,71.25,269
+"work under pressure, excel, sales",sales/marketing,MIS Executive,recommender_dataset,B.Com,50,189
+"business knowledge,finance related skills,sql,java",game industry,HDFC BANK,recommender_dataset,B.Sc,70,148
+"good manufacturing practice (gmp),hazard analysis and critical control points (haccp),food safety,quality assurance,problem solving,critical thinking,food microbiology,food technology","research,understand human body,biotechnology",Lab Technician -Food Safety & Quality,recommender_dataset,B.Tech,87.875,175
+"critical thinking,civil & criminal law",litigation & legal service,Legal Associate,recommender_dataset,BALLB,67.64,181
+"data visualization skills( power bi/ tableau ),sql",data analytics,Power,recommender_dataset,B.Tech,77,234
+"business knowledge,communication skills,designing skills,writing skills,machine learning skills",design,Still working jbm auto pvt Ltd company Engineering quality department,recommender_dataset,BE,68.4,314
+"sql, c++",technology,Software,recommender_dataset,B.Tech,86,301
+"active listening, ml, python, analytic thinking, sql, programming, communication skills, creativity skills, team work, logical skills, tableau, reading","financial analysis, research, technology, gis",Assistant Professor,recommender_dataset,B.Tech,73.055,16
+"ml, python, sql, oracle, tableau",technology,Back End Developer,recommender_dataset,B.E ,62,40
+sales,sales/marketing,Sales Executive,recommender_dataset,Poo.sc,53,280
+"business knowledge, people management, communication skills, work under pressure, leadership, editing, team work, excel, presentation skills, reading, designing skills","technology, trading, entrepreneurship",Traniee,recommender_dataset,B.Tech,80.75,353
+"hardware skills,programming language skills,critical thinking,gathering information,writing skills,c++,matlab,good communication skills","technology,content writing,home interior design,compering",Associate Engineer - Controls & Software,recommender_dataset,B.Tech,66.595,25
+"java, sql, oracle, programming, problem solving skills",technology,Back End Developer,recommender_dataset,BE,78.375,40
+"business knowledge, people management, work under pressure, leadership, team work, interpersonal skills, wealth management, risk managing",safety,SAFETY OFFICER,recommender_dataset,B.Tech,67.45,273
+programming language skills,technology,Developer,recommender_dataset,MCA,94.05,108
+"active listening,programming language skills,critical thinking,business knowledge,analytical skills,communication skills,leadership,problem solving skills,risk management skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,c++,r,python,artificial intelligence,sql","technology,data analytics,data scientist",Data scientist,recommender_dataset,BE,74.1,99
+"accounting skills, ai, business knowledge, work under pressure, leadership, team work, excel, risk managing, reporting","financial analysis, news coverage",Chartered Accountant,recommender_dataset,Chartered Accountancy,85.5,59
+"automation,electrical design,variable frequency drives","plant automation,sales/marketing",Sales Service Engineer-Electrical,recommender_dataset,B.Tech,76.285,281
+"active listening,critical thinking,business knowledge,analytical skills,people management,communication skills,negotiation skills,leadership,risk management skills,writing skills,hr","financial analysis,research,teaching,home interior design",Young Horticulture expert,recommender_dataset,B.Tech,94,369
+business knowledge,sales/marketing,Sales,recommender_dataset,BCA,86,279
+"hardware skills,business knowledge,leadership,product knowledge,problem solving skills,designing skills,client management","technology,service,social causes,industires,design",Quality engineer,recommender_dataset,BE,66,263
+"active listening,hardware skills,mass communication,risk management skills","technology,industires,sports industry",Assistent Engineer,recommender_dataset,B.Tech,74,20
+"critical thinking,artistic/creative skills,good communication skills",infrastructure,Back Office Executive,recommender_dataset,Diploma,63.7,41
+"active listening,programming language skills,python,sql,java",technology,Software Engineer,recommender_dataset,B.Tech,80.75,304
+"active listening,programming language skills,critical thinking,artistic/creative skills,business knowledge,leadership,writing skills,linux,sql,java,client management,good communication skills","news coverage,social justice,teaching,technology,understand human behaviour,web designing,content writing,data analytics,digital marketing,home interior design,web development,social media marketing,gardening,service,social causes,industires,design,navy defence related",Associate consultant,recommender_dataset,B.Tech,83.6,31
+"gathering informing, communication skills, negotiation skills, work under pressure, leadership, team work, writing, reading",understand human behaviour,HR Executive,recommender_dataset,B.Sc,84.55,150
+"life sciences,
+pharmacovigilance,pharmacology,
+gmp,
+pharmaceutics,
+drug discovery,
+clinical trials,
+pharmacokinetics,
+clinical research,
+high-performance liquid chromatography (hplc),
+good clinical practice (gcp),
+good laboratory practice (glp),
+cro managementcro management",medicine,Clinical Research Associate,recommender_dataset,B.Pharm,87.4,66
+"cancer research, cancer biology ,bacterial transformation, molecular cloning, cell culture,
+gel electrophoresis,
+fluorescence microscopy,
+polymerase chain reaction (pcr),
+real-time polymerase chain reaction (qpcr)","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,76.285,269
+"business knowledge,product knowledge,problem solving skills","understand human behaviour,game industry,blockchain",Site Engineer,recommender_dataset,B.Tech,72,298
+"critical thinking,negotiation skills,editing","trading,understand human body,digital marketing",Accountent,recommender_dataset,BA,69,9
+"problem solving skills,java,matlab","technology,trading,web designing,govt. job",BMS executive,recommender_dataset,B.Tech,62.32,39
+"accounting skills,business knowledge","financial analysis,understand human behaviour,industires,blockchain",Entrepreneur,recommender_dataset,BBA,71.25,123
+construction management,"construction,construction manegement",Civil & Structural Engineer,recommender_dataset,B.Tech,74.1,62
+"proeficiency in software like staad pro, etabs","construction,construction manegement",Civil Design Engineer,recommender_dataset,B.Tech,79.8,63
+"business knowledge,analytical skills,people management,product knowledge,problem solving skills,good communication skills",industires,Quality control engineer,recommender_dataset,B.Tech,70,262
+"hardware skills,programming language skills,gathering information,product knowledge,sql,java,automation","technology,trading,game industry,information technology",SOFTWARE Tester,recommender_dataset,BE,56,275
+"active listening, ai, ml, python, critical thinking, analytic thinking, gathering informing, artistic skills, sql, negotiation skills, work under pressure, leadership, news gathering, editing, product knowledge, creativity skills, team work, excel, interpersonal skills, presentation skills, c++, r, problem solving skills, mass communication, writing, tableau, observation skills, risk managing, reporting, reading, designing skills, subject knowledge","research, sales/marketing, social justice, take risk for profits, technology, trading, entrepreneurship, understand human behaviour",Mechanical Engineer,recommender_dataset,B.E ,66,202
+"active listening,critical thinking,gathering information,artistic/creative skills,business knowledge,analytical skills,people management,civil & criminal law,communication skills,negotiation skills,mass communication,leadership,editing,product knowledge,problem solving skills,risk management skills,designing skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,interpersonal skills,presentation skills,r,python,artificial intelligence,sql,content creation,good communication skills","research,social justice,technology,trading,understand human behaviour,supply chain analysis,data analytics,govt. job,game industry,digital marketing,data scientist,web development,market reserach,social media marketing,gardening,service,social causes",Production Engineer,recommender_dataset,BE,66,242
+"active listening,hardware skills,programming language skills,critical thinking,gathering information,artistic/creative skills,business knowledge,analytical skills,finance related skills,people management,communication skills,negotiation skills,mass communication,leadership,editing,product knowledge,problem solving skills,risk management skills,designing skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,sales,social media marketing,interpersonal skills,wealth management,presentation skills,r,python,artificial intelligence,sql,content creation,medical knowledge,hospitality,hr,matlab,good communication skills,teaching,sap,us & canada recruitment (it)","news coverage,research,sales/marketing,social justice,technology,trading,understand human behaviour,understand human body,supply chain analysis,content writing,data analytics,govt. job,game industry,digital marketing,data scientist,web development,market reserach,social media marketing,service,infrastructure,social causes,all fields related to data science.,industires,design,sap consultant in mm,information technology,product life cycle management,navy defence related,sports industry,blockchain,salesforce admin",Production Engineer,recommender_dataset,BE,66,242
+"interpersonal skills, c++, sales","sales/marketing, technology",Mechanical Engineer,recommender_dataset,B.E ,67.45,202
+"critical thinking, analytic thinking, gathering informing, business knowledge, people management, negotiation skills, work under pressure, leadership, team work, excel, interpersonal skills, presentation skills, problem solving skills, mass communication, writing, observation skills, risk managing, reporting, designing skills, building rapport, subject knowledge",railway engineering,Design Engineer,recommender_dataset,BE,76,104
+"accounting skills,active listening,programming language skills,critical thinking,gathering information,business knowledge,analytical skills,finance related skills,communication skills,leadership,risk management skills,designing skills,data visualization skills( power bi/ tableau ),machine learning skills,interpersonal skills,presentation skills,linux,python,artificial intelligence,sql,java,cloud computing,good communication skills,teaching,aws,teaching experience,excel","financial analysis,research,data analytics,data scientist,social media marketing,machine learning",Product Engineer (AI/ML),recommender_dataset,BE,63.365,239
+writing skills,"data analytics,govt. job",Mahendra Next Wealth IT Pvt Ltd.Malasamuthiram,recommender_dataset,B.Sc,60,193
+"accounting skills,active listening,hardware skills",govt. job,Sale executive,recommender_dataset,B.Com,67,277
+"programming language skills,finance related skills,sql",technology,Software Developer,recommender_dataset,B.Sc,78,302
+"programming,leadership skills,presentation skills,team work","embedded systems,technology",Embedded Developer,recommender_dataset,B.Tech,74.1,118
+"active listening,hardware skills,programming language skills,critical thinking,gathering information,artistic/creative skills,communication skills,leadership,problem solving skills,writing skills,interpersonal skills,presentation skills,matlab,good communication skills","teaching,technology,digital marketing,gardening",Project Engineer,recommender_dataset,B.Tech,85.025,249
+"active listening,hardware skills","data analytics,data scientist",Desktop support engineer,recommender_dataset,BE,60,106
+"gathering information,business knowledge,editing,problem solving skills,writing skills,c++,sql,java","technology,web designing,data analytics,govt. job,information technology",Software tester,recommender_dataset,B.Sc,71.25,310
+"accounting skills,active listening,hardware skills,programming language skills,product knowledge,problem solving skills,java","news coverage,research,sales/marketing,social justice,technology,trading,market reserach,industires,design",VFX Designer,recommender_dataset,B.Tech,59,360
+communication skills,technology,Hr admin,recommender_dataset,MBA,60,156
+"ai, ml, python, java, sql, oracle, programming, problem solving skills, tableau, designing skills",singing,Computer Software Engineer,recommender_dataset,B.Sc,80,71
+"active listening,hardware skills,critical thinking,artistic/creative skills,business knowledge,finance related skills,people management,communication skills,product knowledge,problem solving skills,risk management skills,sales",sales/marketing,Medical representative,recommender_dataset,B.Sc,65.5,211
+"python, linux",technology,Computer Software Engineer,recommender_dataset,B.Tech,66.5,71
+"accounting skills, ml, python",financial analysis,Back end operations,recommender_dataset,B.Com,70,42
+"python, java, sql, oracle, programming, team work, excel, logical skills, interpersonal skills, linux, problem solving skills","financial analysis, teaching, technology, trading",Computer Software Engineer,recommender_dataset,B.Tech,66.5,71
+"designing skills,linux,sql,java,cloud computing,mechanical maintenance","technology,sap consultant in mm,machine learning,oil and gas",Associate,recommender_dataset,B.Tech,74,22
+"business knowledge, work under pressure, team work","financial analysis, sales/marketing, take risk for profits, entrepreneurship",Sales Executive,recommender_dataset,B.M.S,77,280
+teaching,"teaching,govt. job",Teacher,recommender_dataset,MA,50,333
+plc/scada/dcs/vlsi,"technology,information technology",Instrumentation and Control Engineer,recommender_dataset,B.Tech,70.3,163
+"civil & criminal law,good communication skills","social justice,social causes",Law Intern,recommender_dataset,BALLB,68.4,177
+"communication skills,negotiation skills,leadership,problem solving skills,writing skills,hr,teaching","research,teaching,technology,govt. job",Process exceutive,recommender_dataset,M.Sc,89,236
+"risk management skills,python,artificial intelligence","technology,information technology,sports industry",Mechine Learning Engineer,recommender_dataset,B.Tech,88,207
+"business knowledge, risk managing, reporting","sales/marketing, entrepreneurship",Self employed,recommender_dataset,B.Com,82.175,290
+hardware skills,sales/marketing,Cultfit,recommender_dataset,B.Tech,65,80
+machine learning skills,technology,Engineer,recommender_dataset,B.Tech,78,121
+"programming language skills,analytical skills,data visualization skills( power bi/ tableau ),python,sql",data scientist,Project intern,recommender_dataset,BA,62.25,251
+"accounting skills, negotiation skills, work under pressure, logical skills",sales/marketing,Sales Executive,recommender_dataset,B.Com,66,280
+"accounting skills,gathering information,people management,communication skills,product knowledge,sales,presentation skills,cad/cae(autocad/catia/ansys/proe/seimensnx),excel",sales/marketing,Marketing Executive,recommender_dataset,BE,78.85,195
+team work,take risk for profits,Clothes designer,recommender_dataset,B.Com,59.85,67
+leadership,marketing,Marketing executive,recommender_dataset,BBA,68.4,197
+"accounting skills,hardware skills,gathering information,business knowledge,analytical skills,communication skills,leadership,problem solving skills,risk management skills,hospitality,hr","sales/marketing,technology,data analytics",I m a marketing head,recommender_dataset,B.Tech,68,158
+"artistic/creative skills,finance related skills,mass communication","teaching,social causes",software developer,recommender_dataset,BA,66,377
+"artistic/creative skills,leadership",govt. job,Motor controller,recommender_dataset,B.Sc,80,217
+"communication skills,python,cloud computing","research,technology",Saleforce developer,recommender_dataset,BE,64.6,278
+"active listening,programming language skills,critical thinking,artistic/creative skills,business knowledge,analytical skills,people management,leadership,problem solving skills,data visualization skills( power bi/ tableau ),presentation skills,python,sql,good communication skills",all fields related to data science.,Billing engineer,recommender_dataset,BE,50,45
+"active listening,programming language skills,communication skills","research,technology",Service advisor,recommender_dataset,B.Tech,60,296
+"product knowledge,problem solving skills,designing skills,python","teaching,technology,trading",Telecaller,recommender_dataset,B.Tech,62,345
+"programming, team work, c++, problem solving skills, designing skills, ios",technology,iOS Developer,recommender_dataset,B.Sc,71,371
+"active listening,business knowledge,communication skills,mass communication,hr","research,teaching,content writing",HR,recommender_dataset,Bachelor of journalism,71.725,149
+"critical thinking, business knowledge, java, people management, work under pressure, leadership, product knowledge, team work, risk managing","social justice, take risk for profits, technology, understand human behaviour",Computer Software Engineer,recommender_dataset,B.E,74.765,71
+"accounting skills,hardware skills,product knowledge,data visualization skills( power bi/ tableau )","financial analysis,understand human behaviour,govt. job",accountant,recommender_dataset,MBA,76,370
+"python, java, sql, excel",technology,Data Engineer,recommender_dataset,B.Tech,64,92
+"data visualization skills( power bi/ tableau ),machine learning skills,c++,presentation skills,r,python,artificial intelligence,sql,content creation,java,cloud computing,aws","digital marketing,data scientist,web development,all fields related to data science.",Data Scientist,recommender_dataset,B.Tech,86.45,95
+"active listening,critical thinking,analytical skills,communication skills,negotiation skills,designing skills,java","research,technology,supply chain analysis,information technology",Material Planner,recommender_dataset,BE,70.62,199
+"active listening, programming, work under pressure, teamwork,excel,logical skills interpersonal skills, presentation skills, reading","technology,entrepreneurship",Front End Java Developer,recommender_dataset,B.Tech,68.4,134
+"active listening,programming language skills,critical thinking,gathering information,artistic/creative skills,negotiation skills,leadership,social media marketing,interpersonal skills,c++,presentation skills,python,sql","financial analysis,news coverage,research,sales/marketing,social justice,technology,web designing,content writing,data analytics,digital marketing,data scientist,web development,market reserach,social media marketing,blockchain,salesforce admin,construction,construction manegement",Associate Software Engineer,recommender_dataset,B.Tech,78.185,29
+"accounting skills,programming language skills,gathering information,business knowledge,analytical skills,product knowledge,problem solving skills,sales,social media marketing,python,sql,client management","sales/marketing,technology,understand human behaviour,data analytics,game industry,data scientist,web development",Field sales officer,recommender_dataset,B.Com,56,130
+writing,news coverage,Teacher,recommender_dataset,B.Com,92.15,333
+"programming language skills,critical thinking,problem solving skills,data visualization skills( power bi/ tableau ),python,artificial intelligence,sql,java,cloud computing,architecture,aws","web designing,data analytics,digital marketing,data scientist",Database Administrator,recommender_dataset,BE,87.4,100
+"work under pressure, team work, excel",technology,Mechanical Engineer,recommender_dataset,BE ,55,202
+"active listening, leadership, team work, interpersonal skills, building rapport","research, technology",Production specialist,recommender_dataset,B.Tech,82.745,245
+"python, java, sql, c++",technology,Computer Software Engineer,recommender_dataset,B.Tech,69.73,71
+cad/cae(autocad/catia/ansys/proe/seimensnx),design,Mechanical Design Engineer,recommender_dataset,B.Tech,77.9,201
+"programming language skills,business knowledge,people management,communication skills,java,good communication skills","technology,understand human behaviour,web designing,web development",Software Developer,recommender_dataset,B.Tech,73.91,302
+"active listening,critical thinking,finance related skills,people management,communication skills,negotiation skills,mass communication,leadership,editing,product knowledge,problem solving skills,risk management skills,designing skills,interpersonal skills,presentation skills","financial analysis,news coverage,technology,supply chain analysis",Mechanical product developer,recommender_dataset,BE,80.75,206
+"hardware skills,product knowledge","social justice,technology,industires",General masdor,recommender_dataset,B.Tech,84,143
+"java, programming",technology,Mechanical Engineer,recommender_dataset,B.Tech,68,202
+"leadership, product knowledge, team work, excel, sales, building rapport, subject knowledge",sales/marketing,Sales Executive,recommender_dataset,B.Com,73.15,280
+"communication skills, leadership, team work, excel, interpersonal skills, presentation skills, subject knowledge, autocad, catia",higher studies,Assistant Professor,recommender_dataset,BE,80.75,16
+"critical thinking,analytical skills,product knowledge,problem solving skills","research,technology,game industry,product life cycle management",Compliance Engineer,recommender_dataset,B.Tech,73,70
+"analytic thinking, gathering informing, sql, programming, communication skills, product knowledge, team work, excel, logical skills, interpersonal skills, problem solving skills",application development,Back End Developer,recommender_dataset,B.Tech,74,40
+"programming, communication skills, linux",technology,Java Developer,recommender_dataset,B.Tech,75,166
+"active listening,communication skills,editing,machine learning skills","technology,govt. job,industires,design",Mechanical Engineer,recommender_dataset,B.Tech,63.65,202
+"ai, ml, python, sql",technology,ASP.NET Developer,recommender_dataset,B.Tech,69,3
+"ml, python, critical thinking, analytic thinking, sql, programming, team work, logical skills, presentation skills, r, subject knowledge","financial analysis, research, social justice, take risk for profits, trading, understand human behaviour",Process executive-Data,recommender_dataset,B.Sc,64.6,237
+"accounting skills,finance related skills,leadership,problem solving skills,presentation skills",financial analysis,Active Trading Service,recommender_dataset,BBA,56,10
+"analytical skills,cad/cae(autocad/catia/ansys/proe/seimensnx),construction management",data scientist,Quality Engineer,recommender_dataset,M.Tech,74,261
+"accounting skills,artistic/creative skills,business knowledge,communication skills,mass communication,editing,problem solving skills,designing skills,writing skills,c++,presentation skills,python,content creation,architecture","financial analysis,research,technology,understand human behaviour,understand human body,supply chain analysis,content writing,govt. job,home interior design,social causes,design",Computerized accounting,recommender_dataset,B.Com,80,72
+"communication skills, c++, reading, subject knowledge",financial analysis,Loco pilot,recommender_dataset,B.Tech,75.81,186
+designing skills,home interior design,Dietician,recommender_dataset,B.Sc,60,110
+"linux,ibm aix,shell scripting,domain name system (dns),secure shell (ssh),python,shell scripting,git,jenkins,puppet,ansible,nagios","web development,information technology,blockchain,digital marketing,game industry",DevOps Engineer,recommender_dataset,B.Tech,82.27,107
+"accounting skills,active listening,critical thinking,artistic/creative skills,business knowledge,analytical skills,finance related skills,people management,leadership,problem solving skills,writing skills,hr,good communication skills","financial analysis,govt. job",ASSOCIATE OPERATIONS PROCESSOR-1,recommender_dataset,B.Com,77.9,4
+"ai, ml, python, java, sql, programming, communication skills, work under pressure, leadership, product knowledge, creativity skills, c++, linux, problem solving skills, writing, observation skills, risk managing, reporting","news coverage, research, teaching, technology",ASP.NET Developer,recommender_dataset,B.E,79.8,3
+programming,technology,Front End Developer,recommender_dataset,BE ,84.55,133
+"programming language skills,critical thinking,communication skills,data visualization skills( power bi/ tableau ),machine learning skills,c++,presentation skills,python,artificial intelligence,sql,java","technology,data scientist",Associate software engineer,recommender_dataset,B.Tech,66.5,33
+"ml, python, sql, r",software,Data Scientist,recommender_dataset,B.Tech,67,95
+"ml, python, sql, r, tableau",technology,ML Engineer,recommender_dataset,B.Tech,67,190
+pgdca,technology,Buisness devlopment excutive,recommender_dataset,B.Tech,78.85,48
+"artistic/creative skills,content creation",content writing,Operations specialist,recommender_dataset,B.Com,75,224
+"programming language skills,critical thinking,analytical skills,communication skills,product knowledge,machine learning skills,python,sql,cloud computing","research,sales/marketing,social justice,technology,understand human behaviour,data analytics",Tata projects ltd,recommender_dataset,B.Tech,50,330
+"programming language skills,analytical skills,editing,data visualization skills( power bi/ tableau ),machine learning skills,python,java","trading,web designing,data analytics,govt. job",Data scientist,recommender_dataset,B.Sc,62.94,99
+"active listening,hardware skills,programming language skills,business knowledge,people management,communication skills,writing skills,machine learning skills,c++,presentation skills,python,sql,content creation,java,matlab,good communication skills","technology,web designing,web development",Testing engineer,recommender_dataset,BE,57,349
+"active listening,programming language skills,critical thinking,gathering information,analytical skills,finance related skills,communication skills,negotiation skills,leadership,problem solving skills,machine learning skills,python,sql,good communication skills","technology,data analytics,data scientist",Associate System Engineer,recommender_dataset,B.Tech,78.85,30
+"leadership,sql","research,teaching,data analytics",Associate Consultant,recommender_dataset,B.Tech,70,23
+"core skills,programming","vlsi,technology",VLSI Developer,recommender_dataset,B.Tech,75.05,362
+2d/3d animation,animation,Graphic Designer,recommender_dataset,B.Sc,71.25,146
+"people management,civil & criminal law",social causes,senior chemist,recommender_dataset,B.Pharmacy,88,374
+"ai, ml, python",technology,Computer Software Engineer,recommender_dataset,B.Tech,74.1,71
+"proeficiency in software like staad pro, etabs","construction,urban planning",Civil & Structural Engineer,recommender_dataset,B.Tech,70.3,62
+"communication skills,negotiation skills,leadership,proeficiency in software like staad pro, etabs","financial analysis,industires,design,urban planning,project management",Civil & Structural Engineer,recommender_dataset,B.Tech,66.88,62
+"artistic/creative skills,teaching","teaching,govt. job",Dance teacher in Dehli public school Jankipuram Lucknow,recommender_dataset,MA,55,89
+"critical thinking, analytic thinking, work under pressure, leadership, team work, excel, logical skills, interpersonal skills, presentation skills, observation skills, designing skills, subject knowledge",research,Mechanical Engineer,recommender_dataset,B.E. ,87.4,202
+"molecular biology,structural biology. nucleic acid - protein interactions. data analysis","research,understand human body,biotechnology",Teaching Assistant-Biotechnology,recommender_dataset,B.Tech,74.195,335
+"programming,leadership skills,presentation skills,team work","technology,entrepreneurship",AWS Developer,recommender_dataset,B.Tech,77.9,6
+civil & criminal law,litigation & legal service,Litigation Lawyer,recommender_dataset,BALLB,74.86,185
+"programming language skills,c++,r,python,java","technology,web designing,social media marketing",Front End Developer,recommender_dataset,BE,84.55,133
+"active listening, ai, ml, python, critical thinking, analytic thinking, sql, programming, communication skills, leadership, market study, team work, tableau","financial analysis, research, technology, entrepreneurship",Civil Engineer,recommender_dataset,B.Tech,82.3,64
+gathering information,sports industry,Executive,recommender_dataset,BE,56,125
+"people management,communication skills,mass communication,leadership,problem solving skills,risk management skills,client management","financial analysis,research,technology,understand human behaviour",Team leader,recommender_dataset,M.Tech,73.5,339
+"programming language skills,machine learning skills,python,sql,aws","technology,data scientist",Application developer,recommender_dataset,B.Tech,67,13
+"active listening,business knowledge,communication skills,negotiation skills,product knowledge,writing skills","trading,supply chain analysis,content writing,market reserach,social media marketing",Flipkart customer care executive,recommender_dataset,BA,49,132
+"active listening,communication skills,negotiation skills,mass communication,leadership,editing,writing skills,social media marketing,content creation,medical knowledge,java,cloud computing,architecture,hospitality,hr,good communication skills","news coverage,technology,content writing,govt. job,game industry,digital marketing,social media marketing",Content creator,recommender_dataset,Bachelor of journalism,78,75
+"life science molecular biology genetics,
+polymerase chain reaction (pcr),
+protein expression,
+biochemistry
+·","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,66.595,269
+"amazon web services (aws)sql,java","data analytics,machine learning,cloud computing",System Administrator,recommender_dataset,B.Tech,81.7,324
+"editing,risk management skills,designing skills,data visualization skills( power bi/ tableau ),machine learning skills,r,python,sql","web designing,data analytics,game industry,digital marketing,data scientist",IT Operations,recommender_dataset,B.Com,72,161
+"editing,problem solving skills,risk management skills,designing skills,c++,r,python,sql","research,sales/marketing,teaching,technology,trading,web designing,data analytics,game industry,digital marketing,data scientist",IT Operations,recommender_dataset,B.Com,72,161
+project management,"financial analysis,govt. job,project management",Site Civil Engineer,recommender_dataset,B.Tech,72.2,297
+"creativity skills,leadership,market study, teamwork, programming","technology,entrepreneurship",Developer,recommender_dataset,B.Tech,71.25,108
+"accounting skills,business knowledge","financial analysis,teaching,understand human behaviour",School accountant,recommender_dataset,B.Tech,63.65,285
+"active listening,programming language skills,people management,communication skills,product knowledge,linux,java","financial analysis,game industry",Software developer,recommender_dataset,B.Tech,70.7,307
+"artistic/creative skills,analytical skills,editing,writing skills","sales/marketing,trading,understand human behaviour",Dance teacher,recommender_dataset,B.Com,60,88
+"gathering information,business knowledge,people management,communication skills,leadership,product knowledge,problem solving skills,risk management skills,client management,good communication skills","technology,trading,product life cycle management",PLM Engineer,recommender_dataset,BE,76,228
+"active listening,hardware skills,programming language skills,critical thinking,mass communication","technology,trading,data scientist",Site Engineer,recommender_dataset,B.Tech,67,298
+"critical thinking,business knowledge,analytical skills,risk management skills","technology,trading,govt. job,infrastructure,social causes",site Engineer,recommender_dataset,B.Tech,63,376
+"active listening,programming language skills,critical thinking,business knowledge,analytical skills,communication skills,data visualization skills( power bi/ tableau ),machine learning skills,python,artificial intelligence,sql","financial analysis,technology,data analytics",Associate consultant,recommender_dataset,B.Tech,80,31
+"business knowledge, communication skills, negotiation skills, work under pressure, leadership, editing, product knowledge, team work, logical skills, interpersonal skills, presentation skills, problem solving skills, mass communication, writing, designing skills, subject knowledge","research, technology, entrepreneurship",Associate Engineer - DevOps,recommender_dataset,B.Tech,81.13,26
+"programming language skills,sql,java,good communication skills",technology,Associate consultant,recommender_dataset,B.Tech,64,31
+"active listening,programming language skills,critical thinking,gathering information,artistic/creative skills,business knowledge,analytical skills,people management,communication skills,negotiation skills,mass communication,leadership,editing,problem solving skills,risk management skills,designing skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,c++,presentation skills,python,sql,java,hospitality,hr,matlab,good communication skills","research,social justice,teaching,technology,web designing,content writing,data analytics,game industry,data scientist,market reserach,gardening",Data Science and Game Design Trainer,recommender_dataset,BE,75,94
+"programming language skills,critical thinking,analytical skills,finance related skills,communication skills,negotiation skills,leadership,problem solving skills,designing skills,data visualization skills( power bi/ tableau ),interpersonal skills,presentation skills,python,artificial intelligence,good communication skills,teaching","financial analysis,data analytics",I was working as Dean R n D,recommender_dataset,BE,67,159
+"sql, excel, writing, reporting, reading, building rapport, subject knowledge",technology,Computer Software Engineer,recommender_dataset,BE,86.45,71
+"programming language skills,critical thinking,analytical skills,machine learning skills,python,sql,cloud computing","technology,data analytics,data scientist",Software Engineer,recommender_dataset,M.Tech,76.95,304
+civil & criminal law,litigation & legal service,Corporate and Disputes Lawyer,recommender_dataset,BALLB,67.64,78
+"programming language skills,product knowledge,risk management skills,machine learning skills,python,excel","technology,data analytics,data scientist,oil and gas",Quality Assurances Engineer,recommender_dataset,BE,64.81,260
+"problem solving skills,process safety management",industires,Process Operations Engineer,recommender_dataset,B.Tech,78.85,235
+"teamwork ,accounting ,business strategy, team management ,marketing, strategic planning, financial analysis ,management, consulting ,budgeting, financial modelling,financial accounting ,business development ,corporate finance, financial reporting ,financial planning ,forecasting ,financial forecasting, financial metrics,accounts receivable, back reconciliation, business planning, business management, business analysis, managerial finance, financial structuring","financial analysis,financial law",Tax Consultant,recommender_dataset,B.Tech,66.5,331
+"active listening, critical thinking, gathering informing, business knowledge, leadership, team work","sales/marketing, trading, entrepreneurship",TRI,recommender_dataset,BBA,75.05,328
+"artistic/creative skills,people management,communication skills,mass communication,editing,writing skills","news coverage,research,content writing,govt. job",Sub editor,recommender_dataset,Master of journalism,58.5,320
+"active listening, critical thinking, analytic thinking, gathering informing, business knowledge, people management, communication skills, negotiation skills, work under pressure, leadership, news gathering, product knowledge, cost accounting, wealth management, observation skills, risk managing","news coverage, research, sales/marketing, entrepreneurship",Computer Software Engineer,recommender_dataset,B.E,76,71
+team work,technology,Mechanical Engineer,recommender_dataset,BE,79.8,202
+"critical thinking, gathering informing, java, editing, creativity skills, team work, interpersonal skills, building rapport","technology, entrepreneurship, understand human behaviour, understand human body",Software tester,recommender_dataset,BCA ,66,310
+"python, excel, presentation skills, writing, subject knowledge","research, teaching",Scientist,recommender_dataset,B.Sc,86,286
+cad/cae(autocad/catia/ansys/proe/seimensnx),"industires,design",Mechanical Design Engineer,recommender_dataset,BE,86.45,201
+"active listening, ai, critical thinking, gathering informing, business knowledge, people management, communication skills, negotiation skills, work under pressure, leadership, news gathering, product knowledge, designing skills, architecture and construction","research, sales/marketing, understand human behaviour, architecture and construction",Junior Architect,recommender_dataset,B.Arch,71.25,170
+"critical thinking,analytical skills,data visualization skills( power bi/ tableau ),machine learning skills,python,artificial intelligence","financial analysis,research,technology,supply chain analysis",Assistant Professor,recommender_dataset,B.Sc,76,16
+"ai, ml, python, analytic thinking, tableau","financial analysis, technology",Teacher,recommender_dataset,B.Sc,80,333
+"programming language skills,analytical skills,artificial intelligence,sql","teaching,data analytics",Traning and Development,recommender_dataset,B.Sc,60,354
+"sql, oracle, work under pressure, leadership, editing, cost accounting, creativity skills, market study, team work, excel, linux, ccna",technology,Data Engineer,recommender_dataset,B.Tech,72.2,92
+"accounting skills, gathering informing, business knowledge, people management","financial analysis, sales/marketing, trading",Real e-state agent,recommender_dataset,BA,53.2,266
+"communication skills, negotiation skills, leadership, excel, microsoft windows, networking basic, computer hardware, l3 printer",technology,IT SUPPORT,recommender_dataset,B.Com,58,162
+"active listening,hardware skills,programming language skills,analytical skills,people management,hr","research,sales/marketing,teaching,technology,trading,digital marketing,market reserach,compering",Associative staff,recommender_dataset,MBA,78.75,35
+"programming language skills,critical thinking,leadership,machine learning skills,matlab","web designing,digital marketing,industires,design,blockchain",Software Engineer,recommender_dataset,B.Tech,75,304
+"creativity skills, programming, teamwork, analytical skills, excel, presentation skills",data analyst,Data Engineer,recommender_dataset,B.Tech,73.15,92
+"active listening,critical thinking,problem solving skills,writing skills,teaching","content writing,game industry,digital marketing,market reserach",Digital marketing executive,recommender_dataset,BE,65.455,112
+"c, python, javascript",data analytics,Software engineer,recommender_dataset,B.Tech,76,308
+"critical thinking, work under pressure, product knowledge, excel, logical skills, presentation skills, problem solving skills, designing skills","research, product analysis",Mechanical Engineer,recommender_dataset,B.Tech,74.7,202
+"accounting skills,active listening,hardware skills,programming language skills,mass communication,editing,problem solving skills,risk management skills,designing skills,writing skills,data visualization skills( power bi/ tableau )","financial analysis,data analytics",Tax consultant,recommender_dataset,B.Com,89,332
+"accounting skills, python, artistic skills, communication skills, team work, problem solving skills, writing, designing skills, sales","technology, trading",Fruit business,recommender_dataset,B.E,66.5,136
+"communication skills, team work","financial analysis, technology, entrepreneurship",Data Engineer,recommender_dataset,BE,71.25,92
+"programming language skills,java",technology,Senior Associate,recommender_dataset,BE,50,291
+"immunochemistry
+immunocytochemistry,
+imagej and zen2012 softwares,
+sds-page,
+thin-layer chromatography (tlc),
+agarose gel electrophoresis,
+paper chromatography","research,understand human body,biotechnology",Research Associate,recommender_dataset,B.Tech,84.455,269
+"active listening,programming language skills,critical thinking,business knowledge,analytical skills,communication skills,negotiation skills,problem solving skills,data visualization skills( power bi/ tableau ),machine learning skills,interpersonal skills,python,sql","research,technology,trading,data analytics,game industry",Program engineering (IT),recommender_dataset,B.Tech,83.315,246
+"work under pressure, team work, interpersonal skills, presentation skills, writing",writing,Technical writer,recommender_dataset,B.Tech,77.33,342
+"wealth management,java","news coverage,teaching,technology",Junior Developer,recommender_dataset,B.Tech,66,171
+"accounting skills,critical thinking,people management,communication skills,java","teaching,technology,service,social causes,information technology",Software Engineer,recommender_dataset,B.Tech,76,304
+"data structures,c++,digital marketing,programming,python (programming language),database management system (dbms),mysql","machine learning,all fields related to data science",Specialist Programmer,recommender_dataset,B.Tech,70.87,312
+"analytical skills,cad/cae(autocad/catia/ansys/proe/seimensnx)","research,teaching",Assistant Professor,recommender_dataset,BE,72,16
+"excel, presentation skills, problem solving skills, writing","financial analysis, teaching, trading, understand human behaviour, understand human body",Stock Trader,recommender_dataset,B.Tech,57.95,315
+"risk management skills,sap",industires,Jr. Engineer,recommender_dataset,Diploma,69,168
+"analytical skills,problem solving skills,python,sql",data analytics,Lecturer,recommender_dataset,BE,68.4,180
+"active listening,hardware skills,critical thinking,business knowledge","news coverage,research,social justice,teaching,technology",Teacher,recommender_dataset,M.Tech,77,333
+"electronics hardware design,
+product development,
+microcontrollers,
+pcb design,
+robotics,
+system deployment,
+graphic design,
+embedded systems,
+assembly language,
+iot,
+battery management systems,electronic circuit design,electronic hardware,
+mechatronics","industires,teaching,technology",Hardware Design Engineer,recommender_dataset,B.Tech,68.4,152
+"active listening, business knowledge, work under pressure, team work, interpersonal skills, writing","research, entrepreneurship",Mechanical Engineer,recommender_dataset,B.Tech,90,202
+"java, programming",technology,Front End Developer,recommender_dataset,B.Tech,80,133
+"python, critical thinking, analytic thinking, gathering informing, business knowledge, sql, programming, people management, communication skills, negotiation skills, work under pressure, leadership, product knowledge, creativity skills, excel, interpersonal skills, presentation skills, wealth management, linux, mass communication, tableau, observation skills, risk managing, reading, subject knowledge","financial analysis, research, sales/marketing, technology, entrepreneurship",Data Engineer,recommender_dataset,B.Tech,71.25,92
+"analytic thinking, sql, oracle, programming, team work, linux, building rapport, subject knowledge",financial analysis,Computer Software Engineer,recommender_dataset,MDCS,75,71
+communication skills,game industry,Medical Posting,recommender_dataset,BCA,75,208
+"ml, python, sql, programming, excel, problem solving skills, tableau","technology, analysis",Sales,recommender_dataset,B.Com,71.25,279
+"kicad,keil,dc to dc converters,dc to ac converters,dc drives,facts devices,matlab,power systems","industires,technology",Engineer-Power Electronics,recommender_dataset,B.Tech,76,122
+"analytical skills,people management,leadership,product knowledge,data visualization skills( power bi/ tableau ),machine learning skills,python,sql","financial analysis,research,technology,understand human behaviour,data analytics,govt. job,data scientist,all fields related to data science.,information technology,navy defence related,sports industry",Intern at innodatatics,recommender_dataset,BE,63,164
+"finance related skills,civil & criminal law,negotiation skills,good communication skills","social justice,home interior design,information technology",supervisor,recommender_dataset,BA,66,380
+"gathering informing, interpersonal skills, building rapport, subject knowledge","teaching, technology",Teacher,recommender_dataset,B.Sc,74.1,333
+"active listening,gathering information,communication skills,mass communication","sales/marketing,supply chain analysis",Sales Executive,recommender_dataset,B.Sc,70.3,280
+"active listening, python, critical thinking, analytic thinking, gathering informing, artistic skills, communication skills, work under pressure, excel","financial analysis, research, technology, understand human behaviour",Transcriber/Script editor,recommender_dataset,Bhmct,74.1,355
+"ml, python, sql, excel, r, tableau",technology,Mechanical Engineer,recommender_dataset,BA,65.55,202
+"active listening,hardware skills,business knowledge,communication skills,negotiation skills,mass communication,problem solving skills,sales,social media marketing,hospitality,good communication skills","sales/marketing,social justice,home interior design,market reserach,social media marketing",Felix healtcare pvt ltd,recommender_dataset,MBA,66.5,128
+"business knowledge,leadership,product knowledge,problem solving skills,risk management skills,sales,hr","data analytics,market reserach,industires,product life cycle management,sports industry",Engineer,recommender_dataset,B.Tech,70,121
+designing skills,design,Design engineer,recommender_dataset,BE,68,105
+"proeficiency in software like staad pro, etabs",design,Mechanical Design Engineer,recommender_dataset,B.Tech,68.4,201
+"critical thinking, analytic thinking, team work, problem solving skills, reading",teaching,Teacher,recommender_dataset,B.Sc,85.5,333
+"programming language skills,linux,sql,java","technology,game industry,market reserach,information technology",Trainee consultant - Quality,recommender_dataset,B.Tech,80,352
+"critical thinking,gathering information,civil & criminal law",litigation & legal service,Lawyer -IPR,recommender_dataset,BALLB,70.585,178
+"team work, observation skills",technology,Mechanical Engineer,recommender_dataset,B.Tech,73.15,202
+"analytical skills,machine learning skills,sales,python,hr","sales/marketing,supply chain analysis,data analytics",Medical and sales reprasentative,recommender_dataset,B.Sc,65,210
+social media marketing,digital marketing,Teaching job,recommender_dataset,B.Com,58,337
+"proeficiency in software like staad pro, etabs","construction,construction manegement,urban planning,project management",Civil & Structural Engineer,recommender_dataset,B.Tech,78.185,62
+"communication skills,leadership,problem solving skills,hospitality,hr,client management,good communication skills,foreign languages french, spanish","technology,data scientist,information technology",Associate it consultant - erp,recommender_dataset,BCA,72,32
+"ml, python",technology,Data Scientist,recommender_dataset,B.Tech,72.12,95
+"leadership, mass communication, reading, sales","sales/marketing, entrepreneurship, understand human body",Tele-caller,recommender_dataset,Hsc,59,344
+"leadership,product knowledge,problem solving skills","research,social justice,teaching,technology",GAT- Engine testing engineer,recommender_dataset,BE,77.9,139
+"proeficiency in software like staad pro, etabs","infrastructure,social causes,industires,design,construction,construction manegement",Civil & Structural Engineer,recommender_dataset,B.Tech,91.295,62
+"communication skills,presentation skills,artificial intelligence","technology,supply chain analysis",sub Engineer,recommender_dataset,M.Tech,79,379
+"people management,architecture","teaching,technology,trading",Site Engineer,recommender_dataset,B.Tech,69,298
+"java, sql",entrepreneurship,Java Developer,recommender_dataset,B.Tech,74.1,166
+"business knowledge,people management,product knowledge","news coverage,data analytics,govt. job,infrastructure",Telemarketer,recommender_dataset,BA,77,347
+"devops,kubernetes,docker,jenkins,linux,bash script,grafana,elastic stack (elk),amazon web services (aws),git,linux system administration,ansible,elasticsearch,openstack,apache kafka,redis,docker,bash,prometheus,nginx","web development,information technology,blockchain,digital marketing,game industry",DevOps Engineer,recommender_dataset,B.Tech,68.115,107
+"c,c++,java,javascript,python",data analytics,Software developer,recommender_dataset,B.Tech,78.85,307
+"active listening, analytic thinking, gathering informing, artistic skills, business knowledge, sql, communication skills, news gathering, editing, creativity skills, team work, excel, presentation skills, c++, writing, reading, designing skills",technology,Data entry operator,recommender_dataset,B.Sc,76.95,98
+recruiting,"understand human behaviour,retailer,service,social causes",HR executive,recommender_dataset,BBA,76.95,151
+"critical thinking,gathering information,leadership,editing,product knowledge,problem solving skills,writing skills,machine learning skills,interpersonal skills,medical knowledge","understand human body,content writing,digital marketing,product life cycle management",Senior Editor,recommender_dataset,M.Sc,82,292
+"artistic skills, business knowledge, people management, editing, product knowledge, creativity skills, team work, designing skills","news coverage, research, social justice, technology, entrepreneurship, understand human behaviour, understand human body",Project Associate,recommender_dataset,B.E,73.245,248
+"critical thinking,people management,leadership,product knowledge,problem solving skills,sap",technology,Technical Associate,recommender_dataset,Diploma,60,341
+sales,sales/marketing,Business,recommender_dataset,Degree,60,49
+"ai, ml, python",technology,Data Scientist,recommender_dataset,B.Tech,85.5,95
+accounting skills,financial analysis,Tech support,recommender_dataset,B.Com,82,340
+"gathering informing, communication skills, editing, presentation skills, observation skills, reading, subject knowledge","research, teaching, technology, entrepreneurship",HR,recommender_dataset,BMS,80,149
+python,data analytics,Software developer,recommender_dataset,B.Tech,85.5,307
+"active listening,gathering information,business knowledge,good communication skills","social justice,understand human behaviour,gardening,social causes,all fields related to data science.,information technology",Researcher,recommender_dataset,B.Sc,70,272
+"active listening,critical thinking,gathering information,artistic/creative skills,people management,communication skills,negotiation skills,mass communication,editing,problem solving skills,writing skills,social media marketing,presentation skills,content creation","research,sales/marketing,understand human behaviour,content writing",Content writer and creative strategist,recommender_dataset,BA,82.65,76
+"js, php,css,html, android",software job,IT Engineer,recommender_dataset,B.Tech,78.85,160
+"python,sql,java,cloud computing","teaching,understand human behaviour,web designing",Software testing,recommender_dataset,BE,78.67,311
+"business knowledge,analytical skills,data visualization skills( power bi/ tableau ),c++,linux,python,java","financial analysis,research,social justice,teaching,trading,content writing",Entry Level Software Engineer,recommender_dataset,BCA,62.35,124
+"python, java, sql",technology,PAT,recommender_dataset,B.Tech,72.96,226
+derivatives,teaching,Computer Software Engineer,recommender_dataset,B.Com,65.55,71
+"people management,sap","supply chain analysis,sap consultant in mm",SAP consultant,recommender_dataset,BE,60.75,274
+"active listening,communication skills,product knowledge,problem solving skills,hospitality","sales/marketing,understand human behaviour,social causes,customer care",Customer care,recommender_dataset,MA,51,81
+"sql, communication skills",technology,Computer Software Engineer,recommender_dataset,B.Tech,72.01,71
+"accounting skills, active listening, artistic skills, people management, civil & criminal law, communication skills, negotiation skills, work under pressure, leadership, creativity skills, logical skills, interpersonal skills, problem solving skills, observation skills, risk managing, designing skills","research, social justice, understand human behaviour, understand human body",Psychologist,recommender_dataset,B.Tech,85.5,252
+people management,teaching,Lecturer,recommender_dataset,BA,74.1,180
+teaching,teaching,Teacher,recommender_dataset,B.Sc,86,333
+"critical thinking, business knowledge, civil & criminal law, communication skills, negotiation skills, work under pressure, news gathering, product knowledge, market study, team work, excel","social justice, take risk for profits, technology, entrepreneurship, understand human behaviour",FITNESS CONSULTANT EXPERT,recommender_dataset,B.E,79.8,127
+"active listening,gathering information,artistic/creative skills,people management,communication skills,mass communication,problem solving skills,writing skills,social media marketing,content creation,client management","sales/marketing,social justice,understand human behaviour,content writing,digital marketing,social media marketing",Copywriter,recommender_dataset,Master of journalism,68,77
+"programming language skills,communication skills,problem solving skills,python,matlab",technology,Assistant system engineer trainee,recommender_dataset,BE,61.75,19
+"logical skills, presentation skills, observation skills, subject knowledge","teaching, technology",Medical Practitioner,recommender_dataset,G. N. M Nurshing,76.95,209
+"active listening, ai, critical thinking, analytic thinking, artistic skills, java, communication skills, work under pressure, leadership, editing, product knowledge, creativity skills, team work, excel, logical skills, interpersonal skills, presentation skills, mass communication, writing, tableau, reading, designing skills",financial analysis,Software engineer,recommender_dataset,B.Tech,70.49,308
+accounting skills,govt. job,Accountant,recommender_dataset,MCA,65,8
+"real-time polymerase chain reaction (qpcr),
+environmental biotechnology,
+molecular biology","research,understand human body,biotechnology",Biocurator,recommender_dataset,B.Tech,85.5,46
+"programming language skills,gathering information,analytical skills,python,artificial intelligence","research,technology,data scientist",nothing,recommender_dataset,B.Tech,80.5,373
+"programming language skills,critical thinking,gathering information,people management,communication skills,leadership,sql,java",technology,Software engineer,recommender_dataset,B.Tech,70.3,308
+"active listening,gathering information,communication skills,product knowledge,writing skills,presentation skills,good communication skills","teaching,technology,content writing,govt. job,industires,sports industry,oil and gas,excel",TESTING ENGINEER,recommender_dataset,BE,83.41,327
+"web application security,vulnerability assessment,owasp,penetration testing,shell scripting,python (programming language),ethical hacking,web application security assessment,application security","technology,data analytics,machine learning,cloud computing,cyber security",Cyber Security Engineer,recommender_dataset,B.Tech,79.8,84
+"active listening, artistic skills, communication skills, work under pressure, editing, product knowledge, creativity skills, market study, team work, excel, sales","sales/marketing, take risk for profits",Medical Practitioner,recommender_dataset,B.Sc,67,209
+"active listening,programming language skills,critical thinking,gathering information,business knowledge,analytical skills,finance related skills,people management,communication skills,mass communication,leadership,product knowledge,problem solving skills,writing skills,data visualization skills( power bi/ tableau ),machine learning skills,interpersonal skills,wealth management,presentation skills,linux,python,artificial intelligence,sql,java,cloud computing","research,technology,data analytics",Associate Data Scientist,recommender_dataset,BE,83.6,24
+civil & criminal law,"social justice,social causes",Law Intern,recommender_dataset,BALLB,71.25,177
+"active listening, python, critical thinking, analytic thinking, java, sql, oracle, programming, people management, leadership, team work, logical skills, interpersonal skills, c++, problem solving skills, writing, building rapport, subject knowledge",entrepreneurship,Java Developer,recommender_dataset,B.Tech,74.1,166
+"java, programming, creativity skills, team work, excel, linux","research, technology, entrepreneurship",Computer Software Engineer,recommender_dataset,B.Tech,66,71
+"active listening, programming, work under pressure, teamwork,excel, interpersonal skills, presentation skills, reading","technology,teaching",Teaching,recommender_dataset,B.Tech,70.3,334
+hospitality,govt. job,Security officer,recommender_dataset,Economics ,45,289
+"business knowledge,analytical skills,finance related skills,communication skills,negotiation skills,product knowledge,problem solving skills,risk management skills,client management",sales/marketing,Business Trainee,recommender_dataset,B.Com,59.85,52
+"active listening, programming, work under pressure, teamwork,excel, interpersonal skills, presentation skills, reading","technology,teaching",Python Developer,recommender_dataset,B.Tech,80.75,255
+"critical thinking,artistic/creative skills,analytical skills,communication skills,problem solving skills,sql","research,sales/marketing,supply chain analysis",Operations specialist,recommender_dataset,B.Tech,76,224
+"negotiation skills,hr",human resource,Talent Acquisition Executive,recommender_dataset,BBA,71.25,329
+"business knowledge,finance related skills,people management,communication skills,negotiation skills,problem solving skills,sales,presentation skills","content writing,market reserach",Human Resources Assistant,recommender_dataset,BBA,74.1,157
+"critical thinking,business knowledge,analytical skills,communication skills,negotiation skills,leadership,problem solving skills,risk management skills,good communication skills,sap","financial analysis,news coverage,research,technology,understand human behaviour,supply chain analysis,market reserach,industires",Procurement engineer,recommender_dataset,BE,65,238
+"analytical skills,problem solving skills","trading,data scientist",GET,recommender_dataset,BE,62,140
+"active listening,business knowledge,communication skills,sales","research,sales/marketing,trading,digital marketing,social media marketing,customer care","Telecaller,sale exicutive",recommender_dataset,BA,58,346
+"critical thinking, analytic thinking, java, sql, programming, communication skills, work under pressure, leadership, team work, interpersonal skills, presentation skills, problem solving skills, writing, observation skills, reporting, reading",technology,Computer Software Engineer,recommender_dataset,B.Tech,86.45,71
+"active listening, communication skills, work under pressure, news gathering, reporting, reading, subject knowledge","news coverage, teaching",Teacher,recommender_dataset,BA,68,333
+"team work, linux, problem solving skills",technology,Computer Software Engineer,recommender_dataset,B.E,64.79,71
+"ai, java","sales/marketing, technology, entrepreneurship",Operations Engineer,recommender_dataset,B.Tech,75,223
+"critical thinking, analytic thinking, gathering informing",research,Mechanical Engineer,recommender_dataset,B.Tech,71.25,202
+"python, programming, excel, linux",technology,Computer Software Engineer,recommender_dataset,B.Tech,63.84,71
+"active listening,business knowledge,people management,leadership,product knowledge,problem solving skills,risk management skills,designing skills,machine learning skills,python,sql",data scientist,Software engineer,recommender_dataset,BE,74.18,308
+"critical thinking,analytical skills,negotiation skills,problem solving skills,risk management skills,data visualization skills( power bi/ tableau ),machine learning skills,python,artificial intelligence,sql","financial analysis,news coverage,supply chain analysis",Purchase executive,recommender_dataset,BE,80,254
+"teamwork,time management,company secretarial work,",financial analysis,Company Secretary,recommender_dataset,B.Com,72.2,69
+"risk management skills,data visualization skills( power bi/ tableau ),sql,sap","data analytics,digital marketing,data scientist",QA Specialist,recommender_dataset,B.Tech,77.9,257
+"ml, python",research,Sales Executive,recommender_dataset,B.Sc,78.85,280
+"analytic thinking, business knowledge, java, sql, communication skills, work under pressure, product knowledge, team work, excel, problem solving skills, observation skills, reporting, reading, subject knowledge","technology, entrepreneurship",Software Tester,recommender_dataset,B.Tech,69.35,306
+"communication skills, work under pressure, leadership","technology, understand human behaviour, understand human body",Hardware Engineer,recommender_dataset,B.Tech,61.75,153
+networking,software job,APAC Engineer,recommender_dataset,B.Tech,78.85,2
+"ai, ml, python, c++, r, linux",technology,Data Engineer,recommender_dataset,B.Tech,56.05,92
+"ai, python, programming, communication skills, c++","financial analysis, sales/marketing, technology, trading",RPA developer,recommender_dataset,BE,76,265
+"node.js,angular,jira,trello,jquery,javascript,ajax,php,codeignitor,loopback,","web development,social causes,all fields related to data science,machine learning,data scientist",Web Developer,recommender_dataset,B.Tech,76.95,366
+"active listening,work under pressure,team work,presentation skills",teaching,Teaching,recommender_dataset,B.Tech,74.1,334
+"accounting skills,active listening,critical thinking,gathering information,artistic/creative skills,communication skills,negotiation skills,leadership,content creation",technology,Business operations,recommender_dataset,B.Tech,75,55
+autocard,data analytics,Sales excellent,recommender_dataset,B.E,66.5,282
+"analytic thinking, communication skills, leadership, team work, designing skills","research, social justice",Machine operator,recommender_dataset,BE,69.635,192
+"proeficiency in software like staad pro, etabs,construction management","technology,understand human behaviour,govt. job,infrastructure,design,construction,construction manegement",Civil & Structural Engineer,recommender_dataset,B.Tech,77.9,62
+"python, tableau",technology,Back End Developer,recommender_dataset,BE,62,40
+programming,technology,Dot net Developer,recommender_dataset,B.Tech,60.8,115
+"r,python,sql",data analytics,Gis engineer,recommender_dataset,B.Tech,56,144
+"programming language skills,people management","technology,govt. job,sports industry",Software developer,recommender_dataset,B.Tech,62,307
+"critical thinking,artistic/creative skills,analytical skills,civil & criminal law,problem solving skills,risk management skills,writing skills,interpersonal skills,presentation skills","trading,customer care",Site engineer,recommender_dataset,B.Tech,71.25,299
+"proeficiency in software like staad pro, etabs,good communication skills,refinery operations","technology,social causes",Chemical Process Engineer,recommender_dataset,B.Tech,81.795,60
+"active listening,hardware skills,problem solving skills,risk management skills,sales","sales/marketing,market reserach",Marketing guy (TMA),recommender_dataset,BBA,78,198
+people management,data scientist,Systems engineer,recommender_dataset,BE,67,326
+"accounting skills,hardware skills,business knowledge,finance related skills,communication skills,social media marketing,content creation,teaching,foreign languages french, spanish","financial analysis,social justice,content writing,social media marketing",Social media executive,recommender_dataset,B.Com,71.25,300
+"critical thinking,mass communication,leadership,editing,designing skills,cloud computing,sap,salesforce admin","design,salesforce admin",Salesforce Admin,recommender_dataset,MCA,73,284
+java,testing,Computer Software Engineer,recommender_dataset,BCA,57,71
+automation,"technology,industires,design",Instrumentation and Control Engineer,recommender_dataset,B.Tech,76,163
+"accounting skills,active listening,hardware skills,business knowledge,problem solving skills","research,teaching,technology,data analytics,agriculture, services",UPS supervisor,recommender_dataset,B.Tech,77,356
+"data structures,algorithms,competitive programming,c++,javascript,javajava,git,intellijidea,xcode,problem solving,androidstudio,webstorm,postman api,html5,cascading style sheets (css),software development,core java,bootstrap,junit,react,back-end web development,spring framework,hibernate,cpp,database management system (dbms),linux,debugging,object-oriented programming (oop),object oriented design,databases",machine learning,Software Development Engineer,recommender_dataset,B.Tech,86.83,303
+"active listening,programming language skills,critical thinking,analytical skills,communication skills,problem solving skills,python","technology,web designing",Associate consultant,recommender_dataset,B.Tech,63.65,31
+"programming language skills,communication skills,c++","web development,information technology",Jumio Document Verification Team,recommender_dataset,B.Sc,67,169
+"ml, python","trading, entrepreneurship, understand human behaviour",Hardware Engineer,recommender_dataset,B.Tech,74.1,153
+teaching,teaching,Placement Trainee,recommender_dataset,BCA,81.795,232
+"data visualization skills( power bi/ tableau ),machine learning skills,r,python,artificial intelligence,sql","technology,web designing,data analytics",Php developer,recommender_dataset,MCA,80,231
+"c++,unity 3d,object-oriented programming (oop),game development,data structures,c#,unreal engine 4,c (programming language)",game industry,Game Programmer,recommender_dataset,B.Tech,70.965,141
+"reading, subject knowledge","financial analysis, news coverage, social justice, entrepreneurship, understand human behaviour, understand human body",Mechanical Engineer,recommender_dataset,DME,76,202
+"active listening,critical thinking,gathering information,people management,problem solving skills,risk management skills","research,technology,data analytics,data scientist",QC engineer,recommender_dataset,BE,69,258
+"ml, python, sql, programming, team work, excel, logical skills, presentation skills, tableau","technology, entrepreneurship",SQL Developer,recommender_dataset,B.Tech,77.9,276
+editing,teaching,HR,recommender_dataset,Diploma,54,149
+"accounting skills,critical thinking,editing,content creation",govt. job,Miritary soldier,recommender_dataset,B.Com,58.9,213
+programming language skills,"web designing,information technology",Software Engineer,recommender_dataset,B.Tech,52,304
+"programming language skills,critical thinking,gathering information,communication skills,negotiation skills,mass communication,leadership,editing,problem solving skills,risk management skills,c++,presentation skills,linux,python,content creation,java,cloud computing,matlab,good communication skills,sap,aws,salesforce admin","research,data analytics,web development,social media marketing,social causes,industires,sports industry",Salesforce Admin,recommender_dataset,B.Tech,80.75,284
+"critical thinking,artistic/creative skills,analytical skills,problem solving skills,risk management skills,artificial intelligence,good communication skills","research,teaching,supply chain analysis,gardening,social causes,industires",Assistant Engineer,recommender_dataset,BE,71.3,15
+designing skills,"web designing,design",Graphics Designer,recommender_dataset,BE,66.975,147
+"active listening, analytic thinking, gathering informing, work under pressure, team work, excel, logical skills, reporting",research,Scientist in Downstream Protein Purification,recommender_dataset,B.Sc,81.795,287
+"gathering information,analytical skills,communication skills,leadership,data visualization skills( power bi/ tableau ),interpersonal skills","technology,web designing,data analytics",Associate System Engineer,recommender_dataset,B.Tech,80.75,30
+"critical thinking,business knowledge,leadership,risk management skills,c++,sql,java","financial analysis,govt. job,social media marketing",Gatemen,recommender_dataset,B.Sc,79,142
+"active listening,artistic/creative skills,communication skills,sales,python,good communication skills,teaching,teaching experience","content writing,data analytics,govt. job,data scientist,gardening,service,all fields related to data science.",PREVIOUSLY WORKED,recommender_dataset,B.Sc,63,229
+"sql, derivatives, linux","financial analysis, technology, trading, entrepreneurship, understand human behaviour",Computer Software Engineer,recommender_dataset,B.Tech,79,71
+"cloud computing,microsoft azure,amazon web services (aws)docker,jenkins,git,kubernetes,powershell,mysql,big data analytics","web development,information technology,blockchain",Cloud Engineer,recommender_dataset,B.Tech,79.42,68
+"product management,user experience (ux),product development,account management,product strategy,project resourcing",product life cycle management,Product Specialist,recommender_dataset,B.Tech,73.055,240
+"communication skills,data visualization skills( power bi/ tableau )",technology,MIS,recommender_dataset,B.Sc,67.22,188
+"python, sql, oracle",technology,Data Engineer,recommender_dataset,B.Tech,72.2,92
+"sql, problem solving skills",technology,Nothing,recommender_dataset,B.Sc,80.75,221
+"programming language skills,critical thinking,analytical skills,editing,data visualization skills( power bi/ tableau ),sql","technology,content writing",Hr Assistant II,recommender_dataset,B.Tech,59.22,155
+2d/3d animation,animation,VFX Production Assistant,recommender_dataset,B.Sc,76.285,361
